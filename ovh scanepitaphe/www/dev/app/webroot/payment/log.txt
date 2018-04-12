@@ -1,0 +1,162 @@
+#======================== Le : 27/02/2014 10:04:16 ====================#
+merchant_id : 079860829500019
+merchant_country : fr
+amount : 5400
+transaction_id : 100245
+transmission_date: 20140227090245
+payment_means: VISA
+payment_time : 100415
+payment_date : 20140227
+response_code : 00
+payment_certificate : 9ae989417ec6
+authorisation_id : 115228
+currency_code : 978
+card_number : 4973.87
+cvv_flag: 1
+cvv_response_code: ??
+bank_response_code: 00
+complementary_code: 00
+complementary_info: <CARD_INFOS BDOM=SOCIETE GENERALE COUNTRY=FRA PRODUCTCODE=B_ NETWORK=VISA BANKCODE=30003 />,CARD_COUNTRY=FRA,IP_COUNTRY=FRA,<COUNTRY_COMBINATION CARD_COUNTRY=FRA IP_COUNTRY=FRA />
+return_context: 
+caddie : 
+----------- 
+34
+Sachot
+Marc
+Gliere
+Poitiers
+86000
+0
+marc.sachot.ms@gmail.com
+475
+ref34270220141002
+54
+-------------------------------- 
+receipt_complement: 
+merchant_language: fr
+language: fr
+customer_id: 
+order_id: 475
+customer_email: marc.sachot.ms@gmail.com
+customer_ip_address: 
+capture_day: 0
+capture_mode: AUTHOR_CAPTURE
+data: 
+---------------------------------------------------------
+
+#======================== Le : 27/02/2014 15:34:22 ====================#
+merchant_id : 079860829500019
+merchant_country : fr
+amount : 15200
+transaction_id : 153310
+transmission_date: 20140227143310
+payment_means: VISA
+payment_time : 153421
+payment_date : 20140227
+response_code : 05
+payment_certificate : 
+authorisation_id : 
+currency_code : 978
+card_number : 4973.87
+cvv_flag: 1
+cvv_response_code: ??
+bank_response_code: 
+complementary_code: 02
+complementary_info: 
+return_context: 
+caddie : 
+----------- 
+-------------------------------- 
+receipt_complement: 
+merchant_language: fr
+language: fr
+customer_id: 
+order_id: 478
+customer_email: marc.sachot.ms@gmail.com
+customer_ip_address: 
+capture_day: 0
+capture_mode: AUTHOR_CAPTURE
+data: 
+---------------------------------------------------------
+
+#======================== Le : 27/02/2014 15:38:33 ====================#
+merchant_id : 079860829500019
+merchant_country : fr
+amount : 15200
+transaction_id : 153640
+transmission_date: 20140227143640
+payment_means: VISA
+payment_time : 153832
+payment_date : 20140227
+response_code : 05
+payment_certificate : 
+authorisation_id : 
+currency_code : 978
+card_number : 4973.87
+cvv_flag: 1
+cvv_response_code: ??
+bank_response_code: 
+complementary_code: 02
+complementary_info: 
+return_context: 
+caddie : 
+----------- 
+-------------------------------- 
+receipt_complement: 
+merchant_language: fr
+language: fr
+customer_id: 
+order_id: 479
+customer_email: marc.sachot.ms@gmail.com
+customer_ip_address: 
+capture_day: 0
+capture_mode: AUTHOR_CAPTURE
+data: 
+---------------------------------------------------------
+
+#======================== Le : 27/02/2014 15:44:52 ====================#
+merchant_id : 079860829500019
+merchant_country : fr
+amount : 9800
+transaction_id : 154321
+transmission_date: 20140227144321
+payment_means: VISA
+payment_time : 154450
+payment_date : 20140227
+response_code : 00
+payment_certificate : 7c3736d6d988
+authorisation_id : 544315
+currency_code : 978
+card_number : 4978.90
+cvv_flag: 1
+cvv_response_code: ??
+bank_response_code: 00
+complementary_code: 00
+complementary_info: <CARD_INFOS BDOM=CE D'AQUITAINE-NORD COUNTRY=FRA PRODUCTCODE=C_ NETWORK=VISA BANKCODE=13335 />,CARD_COUNTRY=FRA,IP_COUNTRY=FRA,<COUNTRY_COMBINATION CARD_COUNTRY=FRA IP_COUNTRY=FRA />
+return_context: 
+caddie : 
+----------- 
+34
+Sachot
+Marc
+Gliere
+Poitiers
+86000
+0
+marc.sachot.ms@gmail.com
+480
+ref34270220141543
+98
+-------------------------------- 
+receipt_complement: 
+merchant_language: fr
+language: fr
+customer_id: 
+order_id: 480
+customer_email: marc.sachot.ms@gmail.com
+customer_ip_address: 
+capture_day: 0
+capture_mode: AUTHOR_CAPTURE
+data: 
+---------------------------------------------------------
+

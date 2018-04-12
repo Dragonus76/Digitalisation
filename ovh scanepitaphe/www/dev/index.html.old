@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Scan Epitaphe by ScanStele</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="favicon.png" />
+</head>
+<body>
+	<h1><span>Bienvenue</span><br/><br/>Scan Epitaphe</h1>
+	<img id="logo" src="logo.png" alt="Scan Epitaphe" />
+		<p>Bientôt en ligne</p>
+
+</body>
+</html>

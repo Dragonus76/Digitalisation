@@ -1,0 +1,3799 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-01-05 15:07+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AlbumsController.php:36;54;140;184
+#: Controller/CategoriesController.php:45;63;141;182
+#: Controller/ClientpagesController.php:26;42;114;243;320;351;354;457;460;530
+#: Controller/CommentsController.php:36;48;88;114
+#: Controller/DefuntsController.php:45;64;84;178;273;276;452;476
+#: Controller/FamiliesController.php:57;98;180
+#: Controller/MediaController.php:70;124;153;200;229;360;484;536;658;754;785;833;901;949;973;1019;1123;1215;1263;1298;1340;1343;1474;1479
+#: Controller/OrdersController.php:335;340
+#: Controller/UsersController.php:151;154;226;229;518;536;539;583;586
+msgid "Erreur id"
+msgstr ""
+
+#: Controller/AlbumsController.php:72
+#: Controller/AppController.php:65
+#: Controller/CategoriesController.php:80
+#: Controller/ClientpagesController.php:235
+#: Controller/CommentsController.php:194;228
+#: Controller/DefuntsController.php:289
+#: Controller/MediaController.php:88;381;678;921;1143;1361
+#: Controller/OrdersController.php:378;396;452
+#: Controller/UsersController.php:554
+msgid "Vous n'avez pas les droits"
+msgstr ""
+
+#: Controller/AlbumsController.php:92;130
+msgid "Votre album a bien été ajouté"
+msgstr ""
+
+#: Controller/AlbumsController.php:114
+#: Controller/CategoriesController.php:116
+#: Controller/MediaController.php:38;272;586;878;1056
+msgid "Vous devez commencer par ajouter une personne"
+msgstr ""
+
+#: Controller/AlbumsController.php:149;194
+#: Controller/CategoriesController.php:150;191
+#: Controller/CommentsController.php:136
+#: Controller/MediaController.php:167;209;497;545;798;842;986;1028;1228;1272;1491
+msgid "Vous n'êtes pas le propriétaire de ce contenu"
+msgstr ""
+
+#: Controller/AlbumsController.php:170
+msgid "Votre album a bien été mis à jour"
+msgstr ""
+
+#: Controller/AlbumsController.php:173
+msgid "Impossible de mettre à jour l'album"
+msgstr ""
+
+#: Controller/AlbumsController.php:201
+msgid "L'album a bien été supprimé"
+msgstr ""
+
+#: Controller/CategoriesController.php:94;131
+msgid "Votre catégorie a bien été ajoutée"
+msgstr ""
+
+#: Controller/CategoriesController.php:168
+msgid "Votre catégorie a bien été mise à jour"
+msgstr ""
+
+#: Controller/CategoriesController.php:171
+msgid "Impossible de mettre à jour la catégorie"
+msgstr ""
+
+#: Controller/CategoriesController.php:200
+msgid "La catégorie a bien été supprimée"
+msgstr ""
+
+#: Controller/CheckoutsController.php:24;29;101;106
+#: Controller/ProductsController.php:66;72;108;147
+msgid "Produit invalide"
+msgstr ""
+
+#: Controller/CheckoutsController.php:88
+msgid "Vous n'avez pas choisi de photo ou la photo n'est pas au format .jpg"
+msgstr ""
+
+#: Controller/CheckoutsController.php:94
+msgid "Erreur dans le panier"
+msgstr ""
+
+#: Controller/CheckoutsController.php:115
+msgid "Produit ajouté au panier"
+msgstr ""
+
+#: Controller/CheckoutsController.php:118
+msgid "Produit est déjà dans le panier"
+msgstr ""
+
+#: Controller/CheckoutsController.php:140
+msgid "Requête invalide"
+msgstr ""
+
+#: Controller/CheckoutsController.php:147
+msgid "Le produit a été enlevé du panier"
+msgstr ""
+
+#: Controller/CheckoutsController.php:156
+msgid "Votre panier a été vidé."
+msgstr ""
+
+#: Controller/CheckoutsController.php:250
+msgid "Vous n'avez pas renseigné toutes vos coordonnées."
+msgstr ""
+
+#: Controller/CheckoutsController.php:279
+msgid "Erreur. Vérifier si vous avez accepté les CGV et CGU."
+msgstr ""
+
+#: Controller/CheckoutsController.php:326
+#: Controller/ProductsController.php:88
+msgid "Impossible d'ajouter une commande"
+msgstr ""
+
+#: Controller/CheckoutsController.php:385;394
+msgid "Erreur de session. Vous n'avez pas été débité."
+msgstr ""
+
+#: Controller/CheckoutsController.php:423
+msgid "Confirmation de votre achat Scanepitaphe (à conserver)"
+msgstr ""
+
+#: Controller/CheckoutsController.php:602
+msgid "Erreur dans le processus de paiement. Vous n'avez pas été débité."
+msgstr ""
+
+#: Controller/CheckoutsController.php:612;625
+msgid "Erreur dans la création de l'image"
+msgstr ""
+
+#: Controller/ClientpagesController.php:33
+msgid "Erreur page"
+msgstr ""
+
+#: Controller/ClientpagesController.php:78;144;556
+msgid "Page sans contenu ou inexistante"
+msgstr ""
+
+#: Controller/ClientpagesController.php:103;167;411;521;581
+msgid "Ce n'est pas le bon mot de passe"
+msgstr ""
+
+#: Controller/ClientpagesController.php:212
+#: Controller/PagesController.php:103;107
+msgid "Page invalide"
+msgstr ""
+
+#: Controller/ClientpagesController.php:294;335
+#: Controller/DefuntsController.php:139;245;414
+msgid "Modifications sauvegardées"
+msgstr ""
+
+#: Controller/ClientpagesController.php:297
+#: Controller/DefuntsController.php:142;248;417
+#: Controller/MediaController.php:334;456;1435
+#: Controller/UsersController.php:301
+msgid "Le type MIME de l'image n'est pas bon"
+msgstr ""
+
+#: Controller/ClientpagesController.php:300
+#: Controller/DefuntsController.php:145;251;420
+#: Controller/MediaController.php:337;459;1438
+#: Controller/UsersController.php:304
+msgid "L'extension choisie pour l'image est incorrecte"
+msgstr ""
+
+#: Controller/ClientpagesController.php:303
+#: Controller/DefuntsController.php:148;254;423
+#: Controller/MediaController.php:340;462;1441
+#: Controller/UsersController.php:307
+msgid "L'image est trop lourde"
+msgstr ""
+
+#: Controller/ClientpagesController.php:306
+#: Controller/DefuntsController.php:151;257;426
+#: Controller/MediaController.php:343;465;1444
+#: Controller/UsersController.php:310
+msgid "Erreur lors de l'upload image"
+msgstr ""
+
+#: Controller/ClientpagesController.php:312;341
+#: Controller/DefuntsController.php:157;264;433
+#: Controller/MediaController.php:352;476;650;745;1115;1207;1455
+msgid "Vérifiez votre saisie"
+msgstr ""
+
+#: Controller/ClientpagesController.php:338
+msgid "Impossible à mettre à jour"
+msgstr ""
+
+#: Controller/ClientpagesController.php:387;497
+msgid "Pas de contenus dans cette catégorie"
+msgstr ""
+
+#: Controller/CommentsController.php:71
+msgid "Nouveau commentaire : "
+msgstr ""
+
+#: Controller/CommentsController.php:78
+msgid "Commentaire ajouté. En attente de modération."
+msgstr ""
+
+#: Controller/CommentsController.php:81
+msgid "Impossible d'ajouter votre commentaire."
+msgstr ""
+
+#: Controller/CommentsController.php:93;119;179;213
+msgid "Erreur"
+msgstr ""
+
+#: Controller/CommentsController.php:99
+msgid "Votre commentaire a été mis à jour."
+msgstr ""
+
+#: Controller/CommentsController.php:102
+msgid "Impossible de mettre à jour votre commentaire."
+msgstr ""
+
+#: Controller/CommentsController.php:152
+msgid "Commentaire approuvé"
+msgstr ""
+
+#: Controller/CommentsController.php:160
+msgid "Commentaire désapprouvé"
+msgstr ""
+
+#: Controller/CommentsController.php:164
+msgid "Impossible de changer le statut du commentaire"
+msgstr ""
+
+#: Controller/CommentsController.php:199;233
+msgid "Le commentaire avec id : %s a été supprimé."
+msgstr ""
+
+#: Controller/CommentsController.php:261
+msgid "Contenu invalide"
+msgstr ""
+
+#: Controller/DefuntsController.php:91;493
+msgid "Vous n'êtes pas le propriétaire de cette personne"
+msgstr ""
+
+#: Controller/DefuntsController.php:96;498
+msgid "Erreur personne"
+msgstr ""
+
+#: Controller/DefuntsController.php:333
+msgid "Le profil a bien été supprimé ainsi que ses contenus"
+msgstr ""
+
+#: Controller/DefuntsController.php:337
+#: Controller/FamiliesController.php:170
+#: Controller/UsersController.php:456
+msgid "Erreur de mot de passe. Suppression annulée."
+msgstr ""
+
+#: Controller/DeliveriesController.php:28
+msgid "Votre mode de livraison a bien été ajouté"
+msgstr ""
+
+#: Controller/DeliveriesController.php:31
+msgid "Impossible d'ajouter le mode de livraison"
+msgstr ""
+
+#: Controller/DeliveriesController.php:52;56;80
+msgid "Mode de livraison invalide"
+msgstr ""
+
+#: Controller/DeliveriesController.php:62
+msgid "Mode de livraison mis à jour"
+msgstr ""
+
+#: Controller/DeliveriesController.php:65
+msgid "Impossible de mettre à jour le mode de livraison"
+msgstr ""
+
+#: Controller/DeliveriesController.php:85
+msgid "Mode de livraison supprimé"
+msgstr ""
+
+#: Controller/DeliveriesController.php:88
+msgid "Impossible de supprimer le mode de livraison"
+msgstr ""
+
+#: Controller/FamiliesController.php:46
+msgid "Votre famille a été créée"
+msgstr ""
+
+#: Controller/FamiliesController.php:49
+#: Controller/UsersController.php:90;674
+msgid "Merci de corriger vos erreurs"
+msgstr ""
+
+#: Controller/FamiliesController.php:61;107;206
+msgid "Vous n'êtes pas le propriétaire de cette famille"
+msgstr ""
+
+#: Controller/FamiliesController.php:73;189
+msgid "Les informations ont été modifiées"
+msgstr ""
+
+#: Controller/FamiliesController.php:166
+msgid "La famille a bien été supprimée"
+msgstr ""
+
+#: Controller/MediaController.php:61;114
+msgid "Votre texte a bien été ajouté"
+msgstr ""
+
+#: Controller/MediaController.php:175
+msgid "Votre texte a bien été mis à jour"
+msgstr ""
+
+#: Controller/MediaController.php:178
+msgid "Impossible de mettre à jour le texte"
+msgstr ""
+
+#: Controller/MediaController.php:222
+msgid "Le texte a bien été supprimé"
+msgstr ""
+
+#: Controller/MediaController.php:331;453;1432
+msgid "Contenu image ajouté"
+msgstr ""
+
+#: Controller/MediaController.php:347;471;1450
+msgid "Vous devez choisir un fichier image"
+msgstr ""
+
+#: Controller/MediaController.php:468;1447
+msgid "Enregistrement impossible"
+msgstr ""
+
+#: Controller/MediaController.php:505
+msgid "Votre image a bien été mise à jour"
+msgstr ""
+
+#: Controller/MediaController.php:508
+msgid "Impossible de mettre à jour l'image"
+msgstr ""
+
+#: Controller/MediaController.php:563
+msgid "L'image a bien été supprimée"
+msgstr ""
+
+#: Controller/MediaController.php:631;726
+msgid "Contenu sonore ajouté"
+msgstr ""
+
+#: Controller/MediaController.php:635;730
+msgid "L'extension choisie pour le fichier est incorrecte"
+msgstr ""
+
+#: Controller/MediaController.php:638;733
+msgid "Le fichier est trop lourd"
+msgstr ""
+
+#: Controller/MediaController.php:641;736
+msgid "Erreur lors de l'upload"
+msgstr ""
+
+#: Controller/MediaController.php:645;740
+msgid "Vous devez choisir un fichier sonore"
+msgstr ""
+
+#: Controller/MediaController.php:806
+msgid "Votre contenu sonore a bien été mis à jour"
+msgstr ""
+
+#: Controller/MediaController.php:809
+#: Controller/OptionsController.php:97
+msgid "Impossible de mettre à jour"
+msgstr ""
+
+#: Controller/MediaController.php:858
+msgid "Le contenu sonore a bien été supprimé"
+msgstr ""
+
+#: Controller/MediaController.php:892;939
+msgid "Votre vidéo a bien été ajoutée"
+msgstr ""
+
+#: Controller/MediaController.php:994
+msgid "Votre vidéo a bien été mise à jour"
+msgstr ""
+
+#: Controller/MediaController.php:997
+msgid "Impossible de mettre à jour la vidéo"
+msgstr ""
+
+#: Controller/MediaController.php:1035
+msgid "La vidéo a bien été supprimée"
+msgstr ""
+
+#: Controller/MediaController.php:1096;1188
+msgid "Contenu pdf ajouté"
+msgstr ""
+
+#: Controller/MediaController.php:1100;1192
+msgid "L'extension choisie pour le pdf est incorrecte"
+msgstr ""
+
+#: Controller/MediaController.php:1103;1195
+msgid "Le pdf est trop lourd"
+msgstr ""
+
+#: Controller/MediaController.php:1106;1198
+msgid "Erreur lors de l'upload du pdf"
+msgstr ""
+
+#: Controller/MediaController.php:1110;1202
+msgid "Vous devez choisir un fichier pdf"
+msgstr ""
+
+#: Controller/MediaController.php:1236
+msgid "Votre pdf a bien été mis à jour"
+msgstr ""
+
+#: Controller/MediaController.php:1239
+msgid "Impossible de mettre à jour le pdf"
+msgstr ""
+
+#: Controller/MediaController.php:1289
+msgid "Le pdf a bien été supprimé"
+msgstr ""
+
+#: Controller/MediaController.php:1507
+msgid "Commentaires autorisés"
+msgstr ""
+
+#: Controller/MediaController.php:1515
+msgid "Commentaires interdits"
+msgstr ""
+
+#: Controller/MediaController.php:1523
+msgid "Impossible de changer le statut des commentaires"
+msgstr ""
+
+#: Controller/OptionsController.php:84;88
+msgid "Choix invalide"
+msgstr ""
+
+#: Controller/OptionsController.php:114
+msgid "Menu ajouté"
+msgstr ""
+
+#: Controller/OptionsController.php:118
+msgid "Impossible d'ajouter menu"
+msgstr ""
+
+#: Controller/OptionsController.php:125
+msgid "Menu invalide"
+msgstr ""
+
+#: Controller/OptionsController.php:132
+msgid "Le menu avec l'id : %s a été supprimé."
+msgstr ""
+
+#: Controller/OptionsController.php:140;149
+msgid "Option invalide"
+msgstr ""
+
+#: Controller/OrdersController.php:38;42;109;113;170;174;209;213;251;401;405;457;461
+msgid "Commande invalide"
+msgstr ""
+
+#: Controller/OrdersController.php:84
+msgid "Votre colis est en cours de livraison"
+msgstr ""
+
+#: Controller/OrdersController.php:89
+msgid "Numéro Colissimo enregistré. Email envoyé au client"
+msgstr ""
+
+#: Controller/OrdersController.php:91
+msgid "Numéro Colissimo enregistré. Pas d'email envoyé au client"
+msgstr ""
+
+#: Controller/OrdersController.php:257
+msgid "La commande avec l id : %s a été supprimé."
+msgstr ""
+
+#: Controller/OrdersController.php:312
+msgid "Désolé, numero de commande invalide."
+msgstr ""
+
+#: Controller/OrdersController.php:322
+msgid "Désolé, erreur de propriété."
+msgstr ""
+
+#: Controller/OrdersController.php:352
+msgid "Commande payée"
+msgstr ""
+
+#: Controller/OrdersController.php:360
+msgid "Commande impayée"
+msgstr ""
+
+#: Controller/OrdersController.php:368
+msgid "Impossible de mettre à jour la commande"
+msgstr ""
+
+#: Controller/OrdersController.php:439
+msgid "Numéro Colissimo enregistré"
+msgstr ""
+
+#: Controller/PagesController.php:115
+msgid "Page mise à jour"
+msgstr ""
+
+#: Controller/PagesController.php:119
+msgid "Impossible de mettre à jour la page"
+msgstr ""
+
+#: Controller/ProductsController.php:40
+msgid "Votre produit a bien été ajouté"
+msgstr ""
+
+#: Controller/ProductsController.php:43
+msgid "Impossible d'ajouter le produit"
+msgstr ""
+
+#: Controller/ProductsController.php:84
+msgid "Le format du fichier image n'est pas adapté"
+msgstr ""
+
+#: Controller/ProductsController.php:90
+msgid "Produit mis à jour"
+msgstr ""
+
+#: Controller/ProductsController.php:93
+msgid "Impossible de mettre à jour le produit"
+msgstr ""
+
+#: Controller/ProductsController.php:116
+msgid "Produit supprimé"
+msgstr ""
+
+#: Controller/ProductsController.php:119
+msgid "Impossible de supprimer le produit"
+msgstr ""
+
+#: Controller/ProductsController.php:143
+msgid "ID invalide"
+msgstr ""
+
+#: Controller/ProductsController.php:170
+msgid "Paiement accepté"
+msgstr ""
+
+#: Controller/TagsController.php:29
+msgid "Tag ajouté"
+msgstr ""
+
+#: Controller/TagsController.php:32
+msgid "Impossible d'ajouter un tag"
+msgstr ""
+
+#: Controller/TagsController.php:40;61;65
+msgid "Tag invalide"
+msgstr ""
+
+#: Controller/TagsController.php:54
+msgid "Le tag a été supprimé."
+msgstr ""
+
+#: Controller/TagsController.php:74
+msgid "Impossible de mettre à jour le tag"
+msgstr ""
+
+#: Controller/UsersController.php:24;591
+msgid "Vous êtes déjà enregistré"
+msgstr ""
+
+#: Controller/UsersController.php:71;655
+msgid "Votre inscription Scanepitaphe"
+msgstr ""
+
+#: Controller/UsersController.php:86;670
+msgid "Inscription réussie. Vous allez recevoir un email d'activation. Rendez-vous dans votre boite email"
+msgstr ""
+
+#: Controller/UsersController.php:94;678
+msgid "Erreur de captcha"
+msgstr ""
+
+#: Controller/UsersController.php:108
+msgid "Vous êtes connecté"
+msgstr ""
+
+#: Controller/UsersController.php:117
+msgid "Identifiant incorrect"
+msgstr ""
+
+#: Controller/UsersController.php:129
+msgid "Cet email n'est associé à aucun compte"
+msgstr ""
+
+#: Controller/UsersController.php:138
+msgid "Scanepitaphe.fr : Régénération de mot de passe"
+msgstr ""
+
+#: Controller/UsersController.php:143
+msgid "Un email vous a été envoyé avec les instructions pour regénérer votre mot de passe"
+msgstr ""
+
+#: Controller/UsersController.php:161
+msgid "Ce lien ne semble pas bon"
+msgstr ""
+
+#: Controller/UsersController.php:174
+msgid "Votre mot de passe a bien été modifié"
+msgstr ""
+
+#: Controller/UsersController.php:212
+msgid "Erreur dans le login ou le mot de passe."
+msgstr ""
+
+#: Controller/UsersController.php:237
+msgid "Lien de validation incorrect"
+msgstr ""
+
+#: Controller/UsersController.php:240
+msgid "Votre compte a bien été validé"
+msgstr ""
+
+#: Controller/UsersController.php:321
+msgid "Vos informations ont bien été modifiées"
+msgstr ""
+
+#: Controller/UsersController.php:450
+msgid "Le compte et ses contenus ont bien été supprimés"
+msgstr ""
+
+#: Controller/UsersController.php:491;507
+msgid "Invitation envoyée"
+msgstr ""
+
+#: Controller/UsersController.php:502
+msgid "Invitation à rejoindre Scanepitaphe"
+msgstr ""
+
+#: Controller/UsersController.php:550
+msgid "Co-auteur supprimé"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:173
+msgid "The Express Checkout transaction has expired and the transaction needs to be restarted"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:174
+msgid "You may have made a second call for the same payment or you may have used the same invoice ID for seperate transactions."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:175
+msgid "Please use a different funcing source."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:176
+msgid "An error occured, please retry the transaction."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:177
+msgid "This transaction couldn't be completed. Redirecting to payment gateway"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:178
+msgid "You have not agreed to the billing agreement."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:179
+msgid "The billing agreement is disabled or inactive."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:180
+msgid "The credit card used is expired."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:181
+msgid "The transaction was refused because the AVS response returned the value of N, and the merchant account is not able to accept such transactions."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:182
+msgid "The payment gateway account is restricted."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:183
+msgid "You must submit an IP address of the buyer with each API call."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:184
+msgid "The merchant selected a value for the PaymentAction field that is not supported."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:185
+msgid "The credit card field was blank."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:186
+msgid "The total amount and item amounts do not match."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:187;192
+msgid "The credit card entered is currently restricted by the payment gateway."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:188
+msgid "The merchant entered an invoice ID that is already associated with a transaction by the same merchant. Attempt with a new invoice ID"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:189
+msgid "The transaction was declined by the country filter managed by the merchant."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:190
+msgid "The transaction was declined by the maximum amount filter managed by the merchant."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:191;193;208
+msgid "The transaction was declined by the payment gateway."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:194
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:195
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity on the IP address."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:196
+msgid "The merchant account attempting the transaction is not a business account."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:197
+msgid "The merchant account attempting the transaction is not able to process Direct Payment transactions. "
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:198
+msgid "Access to Direct Payment was disabled for your account."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:199
+msgid "The merchant account attempting the transaction does not have a confirmed email address with the payment gateway."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:200
+msgid "The merchant attempted a transaction where the amount exceeded the upper limit for that merchant."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:201
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set to decline transaction when the AVS returned a no match (AVS = N)."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:202
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS returns a partial match."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:203
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS is unsupported."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:204
+msgid "The merchant entered an IP address that was in an invalid format. The IP address must be in a format such as 123.456.123.456."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:205
+msgid "The merchant's configuration requires a CVV to be entered, but no CVV was provided with this transaction."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:206
+msgid "The merchant provided an address either in the United States or Canada, but the state provided is not a valid state in either country."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:207;219;220
+msgid "The transaction was declined by the issuing bank, not the payment gateway. The merchant should attempt another card."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:209
+msgid "The merchant's country of residence is not currently supported to allow Direct Payment transactions."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:210
+msgid "The transaction was declined because the payment gateway is currently processing a transaction by the same buyer for the same amount. Can occur when a buyer submits multiple, identical transactions in quick succession."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:211
+msgid "The CVV provided is invalid. The CVV is between 3-4 digits long."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:212
+msgid "Please try again later. Ensure you have passed the correct CVV and address info for the buyer. If creating a recurring profile, please try again by passing a init amount of 0."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:213;214
+msgid "Transaction is not compliant due to missing or invalid 3-D Secure authentication values. Check ECI, ECI3DS, CAVV, XID fields."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:215
+msgid "The transaction was rejected by the payment gateway because of excessive failures over a short period of time for this credit card."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:216
+msgid "The transaction was declined by payment gateway."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:217
+msgid "The transaction was declined because the merchant does not have a valid commercial entity agreement on file with the payment gateway."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:218
+msgid "The transaction was declined because the CVV entered does not match the credit card."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:221
+msgid "The transaction was declined by the issuing bank because of an expired credit card. The merchant should attempt another card."
+msgstr ""
+
+#: View/Albums/add.ctp:4
+msgid "Ajouter un album pour la page de"
+msgstr ""
+
+#: View/Albums/add.ctp:5
+#: View/Albums/edit.ctp:5
+#: View/Albums/liste.ctp:33
+#: View/Categories/add.ctp:5
+#: View/Categories/edit.ctp:5
+#: View/Categories/liste.ctp:33
+#: View/Media/addimagealb.ctp:5
+#: View/Media/addimageind.ctp:5
+#: View/Media/addpdfind.ctp:5
+#: View/Media/addsonind.ctp:5
+#: View/Media/addtexteind.ctp:5
+#: View/Media/addvideoind.ctp:5
+#: View/Media/editimage.ctp:5
+#: View/Media/editpdf.ctp:5
+#: View/Media/editson.ctp:5
+#: View/Media/edittext.ctp:5
+#: View/Media/editvideo.ctp:5
+#: View/Media/listeimage.ctp:6;32
+#: View/Media/listepdf.ctp:6;32
+#: View/Media/listeson.ctp:6;33
+#: View/Media/listtext.ctp:6;32
+#: View/Media/listvideo.ctp:6;31
+#: View/Users/pageinvite.ctp:5
+msgid "modifier les informations de cette personne"
+msgstr ""
+
+#: View/Albums/add.ctp:10
+#: View/Albums/addall.ctp:8
+#: View/Albums/edit.ctp:10
+#: View/Albums/liste.ctp:11;38
+#: View/Categories/add.ctp:10
+#: View/Categories/addall.ctp:8
+#: View/Categories/edit.ctp:10
+#: View/Categories/liste.ctp:11;38
+#: View/Checkouts/cancel.ctp:8
+#: View/Checkouts/cart.ctp:19
+#: View/Checkouts/checkout1.ctp:8
+#: View/Checkouts/checkout2.ctp:19
+#: View/Checkouts/review.ctp:8
+#: View/ClientPages/backgroundimg.ctp:10
+#: View/ClientPages/editpass.ctp:10
+#: View/ClientPages/manage.ctp:10
+#: View/Comments/index.ctp:8
+#: View/Defunts/add.ctp:8
+#: View/Defunts/delete.ctp:8
+#: View/Defunts/edit.ctp:8
+#: View/Defunts/editprinc.ctp:10
+#: View/Elements/bord.ctp:63
+#: View/Families/add.ctp:8
+#: View/Families/delete.ctp:8
+#: View/Families/edit.ctp:8
+#: View/Families/editprinc.ctp:8
+#: View/Media/addimage.ctp:8
+#: View/Media/addimagealb.ctp:10
+#: View/Media/addimageind.ctp:10
+#: View/Media/addpdfind.ctp:10
+#: View/Media/addson.ctp:8
+#: View/Media/addsonind.ctp:10
+#: View/Media/addtexte.ctp:8
+#: View/Media/addtexteind.ctp:10
+#: View/Media/addvideo.ctp:8
+#: View/Media/addvideoind.ctp:10
+#: View/Media/editimage.ctp:10
+#: View/Media/editpdf.ctp:10
+#: View/Media/editson.ctp:10
+#: View/Media/edittext.ctp:10
+#: View/Media/editvideo.ctp:10
+#: View/Media/listeimage.ctp:11;37
+#: View/Media/listepdf.ctp:11;37
+#: View/Media/listeson.ctp:11;38
+#: View/Media/listtext.ctp:11;37
+#: View/Media/listvideo.ctp:11;36
+#: View/Orders/myorder.ctp:8
+#: View/Orders/view.ctp:21
+#: View/Pages/contact.ctp:10
+#: View/Pages/help.ctp:8
+#: View/Products/scanshop.ctp:8
+#: View/Products/view.ctp:8
+#: View/Users/delete.ctp:8
+#: View/Users/edit.ctp:8
+#: View/Users/forgot.ctp:8
+#: View/Users/info.ctp:8
+#: View/Users/pageinvite.ctp:10
+msgid "Retour à la page précédente"
+msgstr ""
+
+#: View/Albums/add.ctp:12
+#: View/Albums/addall.ctp:10
+#: View/Albums/edit.ctp:12
+#: View/Albums/liste.ctp:13;40
+#: View/Categories/add.ctp:12
+#: View/Categories/addall.ctp:10
+#: View/Categories/edit.ctp:12
+#: View/Categories/liste.ctp:13;40
+#: View/Checkouts/cancel.ctp:10
+#: View/Checkouts/cart.ctp:21
+#: View/Checkouts/checkout1.ctp:10
+#: View/Checkouts/checkout2.ctp:21
+#: View/Checkouts/review.ctp:10
+#: View/ClientPages/album.ctp:88
+#: View/ClientPages/backgroundimg.ctp:12
+#: View/ClientPages/editpass.ctp:12
+#: View/ClientPages/manage.ctp:12
+#: View/Comments/index.ctp:10
+#: View/Defunts/add.ctp:10
+#: View/Defunts/delete.ctp:10
+#: View/Defunts/edit.ctp:10
+#: View/Defunts/editprinc.ctp:12
+#: View/Elements/bord.ctp:65
+#: View/Families/add.ctp:10
+#: View/Families/delete.ctp:10
+#: View/Families/edit.ctp:10
+#: View/Families/editprinc.ctp:10
+#: View/Media/addimage.ctp:10
+#: View/Media/addimagealb.ctp:12
+#: View/Media/addimageind.ctp:12
+#: View/Media/addpdfind.ctp:12
+#: View/Media/addson.ctp:10
+#: View/Media/addsonind.ctp:12
+#: View/Media/addtexte.ctp:10
+#: View/Media/addtexteind.ctp:12
+#: View/Media/addvideo.ctp:10
+#: View/Media/addvideoind.ctp:12
+#: View/Media/editimage.ctp:12
+#: View/Media/editpdf.ctp:12
+#: View/Media/editson.ctp:12
+#: View/Media/edittext.ctp:12
+#: View/Media/editvideo.ctp:12
+#: View/Media/listeimage.ctp:13;39
+#: View/Media/listepdf.ctp:13;39
+#: View/Media/listeson.ctp:13;40
+#: View/Media/listtext.ctp:13;39
+#: View/Media/listvideo.ctp:13;38
+#: View/Orders/myorder.ctp:10
+#: View/Orders/view.ctp:23
+#: View/Pages/contact.ctp:12
+#: View/Pages/help.ctp:10
+#: View/Products/scanshop.ctp:10
+#: View/Products/view.ctp:10
+#: View/Users/delete.ctp:10
+#: View/Users/edit.ctp:10
+#: View/Users/forgot.ctp:10
+#: View/Users/info.ctp:10
+#: View/Users/pageinvite.ctp:12
+msgid "bouton pour revenir à la page précédente"
+msgstr ""
+
+#: View/Albums/add.ctp:21
+msgid "1 - Nom de l'album"
+msgstr ""
+
+#: View/Albums/add.ctp:21
+#: View/Albums/addall.ctp:27
+#: View/Albums/edit.ctp:22
+msgid "renseignez le nom de l'album"
+msgstr ""
+
+#: View/Albums/add.ctp:23
+msgid "2 - Date de l'évènement"
+msgstr ""
+
+#: View/Albums/add.ctp:36
+#: View/Media/editpdf.ctp:38
+msgid "3 - Choississez une éventuelle catégorie (facultatif)"
+msgstr ""
+
+#: View/Albums/add.ctp:40
+#: View/Albums/edit.ctp:41
+msgid "Vous n'avez pas créé de catégories pour cette personne."
+msgstr ""
+
+#: View/Albums/add.ctp:40
+#: View/Albums/edit.ctp:41
+#: View/Categories/liste.ctp:21;48
+#: View/Media/addimageind.ctp:49
+#: View/Media/addpdfind.ctp:48
+#: View/Media/addsonind.ctp:42
+#: View/Media/addtexteind.ctp:49
+#: View/Media/addvideoind.ctp:42
+#: View/Media/editimage.ctp:48
+#: View/Media/editpdf.ctp:42
+#: View/Media/editson.ctp:55
+#: View/Media/edittext.ctp:40
+#: View/Media/editvideo.ctp:43
+msgid "Créer une catégorie"
+msgstr ""
+
+#: View/Albums/add.ctp:42
+#: View/Albums/addall.ctp:57
+msgid "Ajouter cet album"
+msgstr ""
+
+#: View/Albums/addall.ctp:4
+msgid "Ajouter un album pour une personne"
+msgstr ""
+
+#: View/Albums/addall.ctp:24
+#: View/Media/addimage.ctp:25
+#: View/Media/addpdf.ctp:25
+#: View/Media/addson.ctp:25
+#: View/Media/addvideo.ctp:24
+msgid "1 - Choississez la personne concernée"
+msgstr ""
+
+#: View/Albums/addall.ctp:26
+#: View/Media/addimage.ctp:27
+#: View/Media/addpdf.ctp:27
+#: View/Media/addson.ctp:27
+#: View/Media/addtexte.ctp:28
+#: View/Media/addvideo.ctp:26
+#: View/Products/view.ctp:39
+msgid "Choisissez une personne"
+msgstr ""
+
+#: View/Albums/addall.ctp:27
+msgid "2 - Nom de l'album"
+msgstr ""
+
+#: View/Albums/addall.ctp:29
+msgid "3 - Date de l'évènement"
+msgstr ""
+
+#: View/Albums/addall.ctp:38
+msgid "3 - Choississez une éventuelle catégorie pour cette image (facultatif)"
+msgstr ""
+
+#: View/Albums/addall.ctp:38
+#: View/Families/liste.ctp:5
+#: View/Media/addimage.ctp:38;49
+#: View/Media/addimagealb.ctp:45
+#: View/Media/addimageind.ctp:32
+#: View/Media/addpdf.ctp:37;48
+#: View/Media/addpdfind.ctp:31
+#: View/Media/addson.ctp:37;48
+#: View/Media/addsonind.ctp:44
+#: View/Media/addtexte.ctp:38;49
+#: View/Media/addtexteind.ctp:32
+#: View/Media/addvideo.ctp:43;52
+#: View/Media/addvideoind.ctp:44
+#: View/Media/editimage.ctp:62
+#: View/Media/editpdf.ctp:44
+#: View/Media/editson.ctp:57
+#: View/Media/edittext.ctp:42
+#: View/Media/editvideo.ctp:45
+msgid "Besoin d'aide?"
+msgstr ""
+
+#: View/Albums/addall.ctp:40
+#: View/Media/addimage.ctp:51
+#: View/Media/addimagealb.ctp:47
+#: View/Media/addpdf.ctp:50
+#: View/Media/addson.ctp:50
+#: View/Media/addtexte.ctp:51
+#: View/Media/addvideo.ctp:54
+msgid "Les catégories"
+msgstr ""
+
+#: View/Albums/addall.ctp:41
+#: View/Media/addimage.ctp:52
+#: View/Media/addimagealb.ctp:48
+#: View/Media/addson.ctp:51
+#: View/Media/addvideo.ctp:55
+msgid "Pour ajouter un contenu à une catégorie, vous devez avoir créé cette catégorie au préalable."
+msgstr ""
+
+#: View/Albums/edit.ctp:4
+msgid "Modifier un album pour la page de"
+msgstr ""
+
+#: View/Albums/edit.ctp:22
+msgid "Nom de l'album"
+msgstr ""
+
+#: View/Albums/edit.ctp:24
+msgid "Date de l'évènement"
+msgstr ""
+
+#: View/Albums/edit.ctp:37
+#: View/Media/addpdfind.ctp:44
+#: View/Media/addsonind.ctp:38
+#: View/Media/addvideoind.ctp:38
+#: View/Media/editimage.ctp:44
+#: View/Media/editson.ctp:51
+#: View/Media/edittext.ctp:36
+#: View/Media/editvideo.ctp:39
+msgid "4 - Choississez une éventuelle catégorie (facultatif)"
+msgstr ""
+
+#: View/Albums/edit.ctp:43
+#: View/Categories/edit.ctp:23
+msgid "Sauvegarder les modifications"
+msgstr ""
+
+#: View/Albums/liste.ctp:5;32
+msgid "Liste des albums pour"
+msgstr ""
+
+#: View/Albums/liste.ctp:6
+#: View/Categories/liste.ctp:6
+#: View/ClientPages/backgroundimg.ctp:5
+#: View/ClientPages/editpass.ctp:5
+#: View/ClientPages/manage.ctp:5
+msgid "éditer les informations de cette personne"
+msgstr ""
+
+#: View/Albums/liste.ctp:21;48
+msgid "Ajouter un album"
+msgstr ""
+
+#: View/Albums/liste.ctp:22
+#: View/Categories/liste.ctp:22;49
+msgid "créer une catégorie"
+msgstr ""
+
+#: View/Albums/liste.ctp:49
+#: View/Products/scanshop.ctp:28
+msgid "créer un album"
+msgstr ""
+
+#: View/Albums/liste.ctp:63
+#: View/Categories/liste.ctp:56
+#: View/Defunts/editprinc.ctp:26
+#: View/Defunts/liste.ctp:37
+#: View/Defunts/listeall.ctp:50
+#: View/Families/editprinc.ctp:32
+#: View/Media/listeimage.ctp:96
+#: View/Media/listepdf.ctp:76
+#: View/Media/listeson.ctp:88
+#: View/Media/listtext.ctp:77
+#: View/Media/listvideo.ctp:51
+#: View/Users/edit.ctp:48
+msgid "Modifier"
+msgstr ""
+
+#: View/Albums/liste.ctp:63
+msgid "Ajouter une image dans cet album"
+msgstr ""
+
+#: View/Albums/liste.ctp:63
+msgid "Supprimer cet album"
+msgstr ""
+
+#: View/Albums/liste.ctp:63
+#: View/Users/pageinvite.ctp:35
+msgid "Voulez vous vraiment supprimer cet album ? Cette action est DEFINITIVE."
+msgstr ""
+
+#: View/Categories/add.ctp:4
+msgid "Ajouter une catégorie pour la page de"
+msgstr ""
+
+#: View/Categories/add.ctp:21
+msgid "1 - Nom de la catégorie"
+msgstr ""
+
+#: View/Categories/add.ctp:21
+#: View/Categories/addall.ctp:26
+#: View/Categories/edit.ctp:22
+msgid "renseignez le nom de la catégorie"
+msgstr ""
+
+#: View/Categories/add.ctp:22
+#: View/Categories/addall.ctp:27
+msgid "Ajouter cette catégorie"
+msgstr ""
+
+#: View/Categories/addall.ctp:4
+msgid "Ajouter une catégorie pour une personne"
+msgstr ""
+
+#: View/Categories/addall.ctp:24
+#: View/Media/addtexte.ctp:26
+#: View/Products/view.ctp:37
+msgid "1- Choississez la personne concernée par l'ajout"
+msgstr ""
+
+#: View/Categories/addall.ctp:26
+msgid "2 - Nom de la catégorie"
+msgstr ""
+
+#: View/Categories/edit.ctp:4
+msgid "Modifier une catégorie pour la page de"
+msgstr ""
+
+#: View/Categories/edit.ctp:22
+msgid "Nom de la catégorie"
+msgstr ""
+
+#: View/Categories/liste.ctp:5;32
+msgid "Liste des catégories pour"
+msgstr ""
+
+#: View/Categories/liste.ctp:56
+msgid "Supprimer cette catégorie"
+msgstr ""
+
+#: View/Categories/liste.ctp:56
+msgid "Voulez vous vraiment supprimer cette catégorie ? Cette action est DEFINITIVE."
+msgstr ""
+
+#: View/Checkouts/cancel.ctp:4
+msgid "Erreur dans le processus de paiement"
+msgstr ""
+
+#: View/Checkouts/cancel.ctp:16
+msgid "Le processus de paiement a été interrompu. Vous n'avez pas été débité et la commande a été annulée."
+msgstr ""
+
+#: View/Checkouts/cart.ctp:15
+#: View/Elements/bord.ctp:29
+#: View/Products/scanshop.ctp:27
+msgid "Mon panier"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:28
+msgid "Votre panier est vide. Rendez vous dans la"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:28
+msgid "boutique"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:32
+#: View/Checkouts/checkout.ctp:65
+#: View/Checkouts/checkout2.ctp:74
+#: View/Orders/fournisseurpview.ctp:85
+#: View/Orders/pview.ctp:85
+#: View/Orders/view.ctp:111
+msgid "Nom du produit"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:34
+#: View/Checkouts/checkout.ctp:67
+#: View/Checkouts/checkout2.ctp:76
+msgid "Prix HT en euros"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:35
+#: View/Checkouts/checkout.ctp:68
+#: View/Checkouts/checkout2.ctp:77
+msgid "Prix TTC en euros"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:50
+msgid "cliquez pour prévisualiser"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:52
+msgid "Prévisualisation de votre plaque"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:77
+#: View/Checkouts/checkout.ctp:119
+#: View/Comments/index.ctp:25
+#: View/Defunts/liste.ctp:39
+#: View/Defunts/listeall.ctp:52
+msgid "Supprimer"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:88
+msgid "Prix total TTC : "
+msgstr ""
+
+#: View/Checkouts/cart.ctp:95
+msgid "Vider le panier"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:100
+msgid "Procéder au paiement"
+msgstr ""
+
+#: View/Checkouts/cart.ctp:102
+msgid "Retour à la boutique"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:4
+#: View/Checkouts/checkout2.ctp:15
+msgid "Récapitulatif de votre commande"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:9
+#: View/Checkouts/checkout2.ctp:31
+msgid "Vos coordonnées"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:10
+#: View/Checkouts/checkout1.ctp:22
+#: View/Checkouts/checkout2.ctp:32;53
+msgid "Nom : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:13
+#: View/Checkouts/checkout1.ctp:25
+#: View/Checkouts/checkout2.ctp:34;55
+msgid "Prénom : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:16
+#: View/Checkouts/checkout1.ctp:28
+#: View/Checkouts/checkout2.ctp:36;57
+msgid "Rue : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:19
+#: View/Checkouts/checkout1.ctp:31
+#: View/Checkouts/checkout2.ctp:38;59
+msgid "Code Postal : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:22
+#: View/Checkouts/checkout1.ctp:34
+#: View/Checkouts/checkout2.ctp:40;61
+msgid "Ville : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:25
+#: View/Checkouts/checkout1.ctp:37
+#: View/Checkouts/checkout2.ctp:42;63
+msgid "Pays : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:28
+#: View/Checkouts/checkout1.ctp:40
+#: View/Checkouts/checkout2.ctp:44;65
+msgid "Téléphone : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:31
+#: View/Checkouts/checkout1.ctp:43
+#: View/Checkouts/checkout2.ctp:46
+msgid "Email : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:36
+#: View/Checkouts/checkout1.ctp:48
+msgid "Modifier vos coordonnées"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:44
+#: View/Checkouts/checkout1.ctp:66
+#: View/Checkouts/checkout2.ctp:52
+msgid "Adresse de livraison"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:49
+#: View/Checkouts/checkout1.ctp:68
+#: View/Defunts/add.ctp:22
+#: View/Defunts/addall.ctp:20
+#: View/Defunts/edit.ctp:31
+#: View/Families/add.ctp:18
+#: View/Families/edit.ctp:19
+#: View/Users/edit.ctp:20
+msgid "Nom"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:50
+#: View/Checkouts/checkout1.ctp:69
+#: View/Defunts/add.ctp:21
+#: View/Defunts/addall.ctp:19
+#: View/Defunts/edit.ctp:30
+#: View/Users/edit.ctp:19
+msgid "Prénom"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:51
+#: View/Checkouts/checkout1.ctp:70
+#: View/Users/edit.ctp:31
+msgid "Rue"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:52
+#: View/Checkouts/checkout1.ctp:71
+msgid "Code Postal"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:53
+#: View/Checkouts/checkout1.ctp:72
+#: View/Users/edit.ctp:33
+msgid "Ville"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:54
+#: View/Checkouts/checkout1.ctp:73
+#: View/Users/edit.ctp:34
+msgid "Pays"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:55
+#: View/Checkouts/checkout1.ctp:74
+msgid "Téléphone"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:62
+#: View/Checkouts/checkout2.ctp:71
+msgid "Votre commande"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:136
+#: View/Checkouts/checkout2.ctp:132
+msgid "Prix Total HT en euros : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:145
+#: View/Checkouts/checkout2.ctp:140
+msgid "TVA en euros : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:154
+#: View/Checkouts/checkout2.ctp:149
+msgid "Livraison en euros : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:162
+msgid "Choisir un tarif"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:186
+#: View/Checkouts/checkout2.ctp:160
+msgid "Prix TTC en euros : "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:208
+msgid "Choix du moyen de paiement"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:209
+msgid "Attention le paiement en ligne est plafonné à 250€"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:217
+msgid "Moyen de paiment"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:222
+#: View/Checkouts/checkout2.ctp:185
+msgid "Je confirme avoir lu les "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:222
+#: View/Checkouts/checkout2.ctp:186
+#: View/Elements/divfoot.ctp:11
+msgid "CGV"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:222
+#: View/Checkouts/checkout2.ctp:187
+msgid " et les "
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:222
+#: View/Checkouts/checkout2.ctp:188
+#: View/Elements/divfoot.ctp:12
+msgid "CGU"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:226
+#: View/Checkouts/checkout2.ctp:195
+msgid "Valider la commande et procéder au paiement"
+msgstr ""
+
+#: View/Checkouts/checkout.ctp:234
+#: View/Checkouts/checkout1.ctp:111
+#: View/Checkouts/checkout2.ctp:203
+msgid "Votre panier est vide"
+msgstr ""
+
+#: View/Checkouts/checkout1.ctp:4
+msgid "Vos coordonnées pour la commande"
+msgstr ""
+
+#: View/Checkouts/checkout1.ctp:21
+msgid "Vérifiez vos coordonnées"
+msgstr ""
+
+#: View/Checkouts/checkout1.ctp:80
+msgid "Choisir un tarif de livraison"
+msgstr ""
+
+#: View/Checkouts/checkout1.ctp:103
+msgid "Valider vos coordonnées et passer à l'étape suivante"
+msgstr ""
+
+#: View/Checkouts/custom.ctp:3
+msgid "1 - Placez le QR code et le texte sur l'image."
+msgstr ""
+
+#: View/Checkouts/custom.ctp:4
+msgid "2 - Redimensionnez le texte si besoin (en utilisant le petit carré rouge en bas à droite de votre texte)."
+msgstr ""
+
+#: View/Checkouts/custom.ctp:5
+msgid "3 - Validez pour ajouter à vote panier."
+msgstr ""
+
+#: View/Checkouts/review.ctp:4
+msgid "Félicitations pour votre achat!"
+msgstr ""
+
+#: View/Checkouts/review.ctp:16
+msgid "L'équipe de Scanépitaphe vous remercie, votre paiement a été effectué avec succès."
+msgstr ""
+
+#: View/Checkouts/review.ctp:17
+msgid "Si vous avez acheté des extensions (textes, fichiers sonores, etc.), vous pouvez d'ores et déjà en profiter."
+msgstr ""
+
+#: View/Checkouts/review.ctp:17
+msgid "Si vous avez commander une plaque commémorative celle-ci vous sera livrée dans les plus brefs délais. Vous pouvez suivre le traitement de votre commande dans la rubrique \"Mon compte\" => \"Mes commandes\"."
+msgstr ""
+
+#: View/ClientPages/album.ctp:5
+#: View/ClientPages/photo.ctp:5
+#: View/ClientPages/view.ctp:4
+#: View/ClientPages/viewcat.ctp:4
+#: View/ClientPages/viewtag.ctp:4
+msgid "Cette page est protégée par un mot de passe"
+msgstr ""
+
+#: View/ClientPages/album.ctp:6
+#: View/ClientPages/photo.ctp:6
+#: View/ClientPages/viewcat.ctp:5
+#: View/ClientPages/viewtag.ctp:5
+msgid "Pour voir le contenu, veuillez renseigner le mot de passe : "
+msgstr ""
+
+#: View/ClientPages/album.ctp:10
+#: View/ClientPages/photo.ctp:10
+#: View/ClientPages/view.ctp:9
+#: View/ClientPages/viewcat.ctp:9
+#: View/ClientPages/viewtag.ctp:9
+msgid "Renseignez le mot de passe"
+msgstr ""
+
+#: View/ClientPages/album.ctp:11
+#: View/ClientPages/photo.ctp:11
+#: View/ClientPages/view.ctp:10
+#: View/ClientPages/viewcat.ctp:10
+#: View/ClientPages/viewtag.ctp:10
+msgid "Valider"
+msgstr ""
+
+#: View/ClientPages/album.ctp:64
+#: View/ClientPages/photo.ctp:64
+#: View/ClientPages/view.ctp:65
+#: View/ClientPages/viewcat.ctp:63
+#: View/ClientPages/viewtag.ctp:63
+msgid "Lieu sépulture : "
+msgstr ""
+
+#: View/ClientPages/album.ctp:83
+msgid "Galerie de l'album "
+msgstr ""
+
+#: View/ClientPages/album.ctp:86
+msgid "Retour à la page "
+msgstr ""
+
+#: View/ClientPages/album.ctp:121
+#: View/ClientPages/photo.ctp:136
+#: View/ClientPages/view.ctp:480
+#: View/ClientPages/viewtag.ctp:447
+msgid "Les autres membres de la famille "
+msgstr ""
+
+#: View/ClientPages/album.ctp:126;135
+#: View/ClientPages/photo.ctp:141;150
+#: View/ClientPages/view.ctp:485;494
+#: View/ClientPages/viewcat.ctp:483;492
+#: View/ClientPages/viewtag.ctp:452;461
+#: View/Defunts/edit.ctp:55
+#: View/Users/edit.ctp:42
+msgid "photo de profil de "
+msgstr ""
+
+#: View/ClientPages/album.ctp:129
+#: View/ClientPages/photo.ctp:144
+#: View/ClientPages/view.ctp:488
+#: View/ClientPages/viewcat.ctp:486
+#: View/ClientPages/viewtag.ctp:455
+msgid "Aller sur la page de "
+msgstr ""
+
+#: View/ClientPages/backgroundimg.ctp:4
+msgid "Choix de l'image de fond pour la page de "
+msgstr ""
+
+#: View/ClientPages/backgroundimg.ctp:21
+msgid "Choississez un fichier pour l'image de fond de page"
+msgstr ""
+
+#: View/ClientPages/backgroundimg.ctp:22
+msgid "Enregistrer la nouvelle photo de fond"
+msgstr ""
+
+#: View/ClientPages/editpass.ctp:4
+msgid "Choix du mot de passe pour la page de "
+msgstr ""
+
+#: View/ClientPages/editpass.ctp:18
+msgid "Vous avez la possibilité de restreindre l'accès à vos pages aux personnes que vous souhaitez. Pour ce faire, définissez un mot de passe et cocher 'protéger ma page avec un mot de passe'. Ensuite, communiquez le mot de passe aux personnes de votre choix.\n        A tout moment, vous pouvez modifier le mot de passe ou rendre la page publique en décochant 'protéger ma page avec un mot de passe'."
+msgstr ""
+
+#: View/ClientPages/editpass.ctp:23
+msgid "Définissez un mot de passe"
+msgstr ""
+
+#: View/ClientPages/editpass.ctp:24
+msgid "Protéger ma page avec un mot de passe"
+msgstr ""
+
+#: View/ClientPages/editpass.ctp:25
+#: View/Families/edit.ctp:21
+msgid "Enregistrer les modifications"
+msgstr ""
+
+#: View/ClientPages/manage.ctp:4
+msgid "Paramètres de la page de "
+msgstr ""
+
+#: View/ClientPages/manage.ctp:18
+msgid "Restreindre l'accès / Changer le mot passe d'accès à la page"
+msgstr ""
+
+#: View/ClientPages/manage.ctp:20
+msgid "Changer l'image de fond de la page"
+msgstr ""
+
+#: View/ClientPages/manage.ctp:21
+msgid "changer l'image de fond de cette page"
+msgstr ""
+
+#: View/ClientPages/manage.ctp:27
+msgid "image de fond"
+msgstr ""
+
+#: View/ClientPages/photo.ctp:82
+#: View/Media/addimage.ctp:72
+msgid "Les albums"
+msgstr ""
+
+#: View/ClientPages/photo.ctp:89
+msgid "voir les photos de cet album"
+msgstr ""
+
+#: View/ClientPages/view.ctp:5
+msgid "Pour voir le contenu, veuillez renseigner le mot de passe :"
+msgstr ""
+
+#: View/ClientPages/view.ctp:87
+#: View/ClientPages/viewcat.ctp:85
+#: View/ClientPages/viewtag.ctp:85
+msgid "Galerie photos"
+msgstr ""
+
+#: View/ClientPages/view.ctp:117;125
+#: View/ClientPages/viewcat.ctp:115;123
+msgid "Album "
+msgstr ""
+
+#: View/ClientPages/view.ctp:170;238;312;375;443
+#: View/ClientPages/viewcat.ctp:168;236;310;373;441
+#: View/ClientPages/viewtag.ctp:147;212;283;344;410
+#: View/Comments/index.ctp:41;47;55
+#: View/Media/listeimage.ctp:87;93
+#: View/Media/listepdf.ctp:67;73
+#: View/Media/listeson.ctp:79;85
+#: View/Media/listtext.ctp:68;74
+#: View/Media/listvideo.ctp:63;69
+msgid "Etes-vous sûr ?"
+msgstr ""
+
+#: View/ClientPages/view.ctp:181;249;323;386;454
+#: View/ClientPages/viewcat.ctp:179;247;321;384;452
+#: View/ClientPages/viewtag.ctp:158;223;294;355;421
+msgid "écrire un commentaire"
+msgstr ""
+
+#: View/ClientPages/view.ctp:183;251;325;388;456
+#: View/ClientPages/viewcat.ctp:181;249;323;386;454
+#: View/ClientPages/viewtag.ctp:160;225;296;357;423
+msgid "Ok"
+msgstr ""
+
+#: View/ClientPages/view.ctp:189;257;331;394;462
+#: View/ClientPages/viewcat.ctp:187;255;329;392;460
+#: View/ClientPages/viewtag.ctp:166;231;302;363;429
+msgid "Vous devez être "
+msgstr ""
+
+#: View/ClientPages/view.ctp:189;257;331;394;462
+#: View/ClientPages/viewcat.ctp:187;255;329;392;460
+#: View/ClientPages/viewtag.ctp:166;231;302;363;429
+msgid "connecté"
+msgstr ""
+
+#: View/ClientPages/view.ctp:189;257;331;394;462
+#: View/ClientPages/viewcat.ctp:187;255;329;392;460
+#: View/ClientPages/viewtag.ctp:166;231;302;363;429
+msgid " pour ajouter un commentaire"
+msgstr ""
+
+#: View/ClientPages/view.ctp:410
+msgid "Télécharger le pdf"
+msgstr ""
+
+#: View/Comments/add.ctp:13
+#: View/Comments/edit.ctp:11
+msgid "Sauvegarder le commentaire"
+msgstr ""
+
+#: View/Comments/index.ctp:4
+msgid "Liste des Commentaires"
+msgstr ""
+
+#: View/Comments/index.ctp:21
+msgid "Créé le"
+msgstr ""
+
+#: View/Comments/index.ctp:22
+msgid "Par"
+msgstr ""
+
+#: View/Comments/index.ctp:23
+msgid "Content"
+msgstr ""
+
+#: View/Comments/index.ctp:24
+msgid "Valider le commentaire"
+msgstr ""
+
+#: View/Comments/index.ctp:63
+msgid "Aucun commentaire sur ce contenu."
+msgstr ""
+
+#: View/Defunts/add.ctp:4
+msgid "Ajouter une personne ou un groupe de personnes à la famille"
+msgstr ""
+
+#: View/Defunts/add.ctp:20
+#: View/Defunts/addall.ctp:18
+#: View/Defunts/edit.ctp:29
+msgid "Titre (Monsieur, Madame, Famille, etc.)"
+msgstr ""
+
+#: View/Defunts/add.ctp:24
+#: View/Defunts/addall.ctp:35
+#: View/Defunts/edit.ctp:33
+#: View/Users/edit.ctp:23
+msgid "Date de naissance"
+msgstr ""
+
+#: View/Defunts/add.ctp:32
+#: View/Defunts/addall.ctp:47
+#: View/Defunts/edit.ctp:41
+msgid "Date de décès"
+msgstr ""
+
+#: View/Defunts/add.ctp:44
+#: View/Defunts/addall.ctp:27
+#: View/Defunts/edit.ctp:60
+#: View/Users/edit.ctp:47
+msgid "Photo de profil"
+msgstr ""
+
+#: View/Defunts/add.ctp:45
+#: View/Defunts/addall.ctp:21
+#: View/Defunts/edit.ctp:61
+msgid "Lieu sépulture"
+msgstr ""
+
+#: View/Defunts/add.ctp:46
+#: View/Defunts/addall.ctp:22
+#: View/Defunts/edit.ctp:62
+msgid "Courte épitaphe"
+msgstr ""
+
+#: View/Defunts/add.ctp:54
+msgid "Ajouter"
+msgstr ""
+
+#: View/Defunts/addall.ctp:4
+msgid "Ajouter un proche ou un groupe de proches"
+msgstr ""
+
+#: View/Defunts/addall.ctp:15
+msgid "Choississez une famille pour ce proche"
+msgstr ""
+
+#: View/Defunts/addall.ctp:60
+msgid "Ajouter ce proche"
+msgstr ""
+
+#: View/Defunts/delete.ctp:4
+msgid "Confirmation suppression du profil"
+msgstr ""
+
+#: View/Defunts/delete.ctp:17
+#: View/Families/delete.ctp:17
+#: View/Users/delete.ctp:17
+msgid "ATTENTION!"
+msgstr ""
+
+#: View/Defunts/delete.ctp:18
+msgid "La suppression de ce profil va engendrer la suppression de l'ensemble des contenus qui lui sont associés. Cette action est IRREVOCABLE et les contenus supprimés ne pourront pas être récupérés."
+msgstr ""
+
+#: View/Defunts/delete.ctp:23
+#: View/Families/delete.ctp:23
+#: View/Users/delete.ctp:23
+msgid "Renseignez votre mot de passe pour confirmer"
+msgstr ""
+
+#: View/Defunts/delete.ctp:23
+#: View/Families/delete.ctp:23
+#: View/Users/delete.ctp:23;24
+msgid "renseignez votre mot de passe"
+msgstr ""
+
+#: View/Defunts/delete.ctp:25
+msgid "Confirmer la suppression de ce profil"
+msgstr ""
+
+#: View/Defunts/edit.ctp:4
+msgid "Modification des informations de"
+msgstr ""
+
+#: View/Defunts/edit.ctp:27
+msgid "Vous n'avez pas créé de famille."
+msgstr ""
+
+#: View/Defunts/edit.ctp:27
+#: View/Families/liste.ctp:17
+#: View/Users/account.ctp:9
+msgid "Créer une famille"
+msgstr ""
+
+#: View/Defunts/edit.ctp:69
+msgid "Enregistrer"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:29
+msgid "Textes"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:30
+msgid "ajouter / modifier un texte"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:33
+#: View/Media/listeson.ctp:48
+msgid "Mp3"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:34
+msgid "ajouter / modifier un Mp3"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:37
+msgid "Vidéos"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:38
+msgid "ajouter / modifier une vidéo"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:41
+msgid "Pdf"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:42
+msgid "ajouter / modifier un pdf"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:45
+msgid "Images"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:46
+msgid "ajouter / modifier une image"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:49
+msgid "Albums"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:50
+msgid "ajouter / modifier un album"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:53
+msgid "Catégories"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:54
+msgid "ajouter / modifier une catégorie"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:60
+msgid "Supprimer ce profil"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:73
+msgid "Co-auteurs"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:74
+msgid "permettez à vos proches d'ajouter du contenu sur cette page"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:80
+msgid "Paramètres de la page"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:81
+msgid "paramètres de la page"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:87
+#: View/Families/editprinc.ctp:57
+#: View/Pages/help.ctp:4
+#: View/Users/account.ctp:49
+msgid "Besoin d'aide ?"
+msgstr ""
+
+#: View/Defunts/editprinc.ctp:88
+#: View/Families/editprinc.ctp:58
+#: View/Users/account.ctp:50
+msgid "posez nous votre question"
+msgstr ""
+
+#: View/Defunts/liste.ctp:5;16
+msgid "Liste des membres de la famille"
+msgstr ""
+
+#: View/Defunts/liste.ctp:6
+msgid "Vous n'avez pas ajouté de proches à cette famille"
+msgstr ""
+
+#: View/Defunts/liste.ctp:8
+#: View/Defunts/listeall.ctp:9
+msgid "Ajouter une personne"
+msgstr ""
+
+#: View/Defunts/liste.ctp:27
+#: View/Defunts/listeall.ctp:40
+msgid "image de profil de la personne"
+msgstr ""
+
+#: View/Defunts/liste.ctp:38
+#: View/Defunts/listeall.ctp:51
+msgid "Modifier sa page"
+msgstr ""
+
+#: View/Defunts/liste.ctp:39
+#: View/Defunts/listeall.ctp:52
+msgid "Voulez vous vraiment supprimer cette page ? Cette action est DEFINITIVE et entrainera la suppression de tous les contenus relatifs à cette personne."
+msgstr ""
+
+#: View/Defunts/liste.ctp:47
+#: View/Defunts/listeall.ctp:59
+msgid "Ajouter un proche"
+msgstr ""
+
+#: View/Defunts/listeall.ctp:5;21
+msgid "Liste des membres de vos familles"
+msgstr ""
+
+#: View/Defunts/listeall.ctp:6
+msgid "Vous n'avez pas ajouté de proches"
+msgstr ""
+
+#: View/Defunts/listeall.ctp:11
+msgid "Vous devez ajouter une famille"
+msgstr ""
+
+#: View/Defunts/listeall.ctp:25
+msgid "Nom du proche"
+msgstr ""
+
+#: View/Defunts/listeall.ctp:26
+msgid "Nom de la famille"
+msgstr ""
+
+#: View/Elements/bord.ctp:6
+msgid "Premiers pas sur Scanepitaphe (didacticiel)"
+msgstr ""
+
+#: View/Elements/bord.ctp:11
+#: View/Elements/header.ctp:147
+#: View/Users/account.ctp:3
+msgid "Tableau de bord"
+msgstr ""
+
+#: View/Elements/bord.ctp:16
+#: View/Families/liste.ctp:5
+msgid "Vos familles"
+msgstr ""
+
+#: View/Elements/bord.ctp:20
+msgid "Les membres de vos familles"
+msgstr ""
+
+#: View/Elements/bord.ctp:25
+msgid "Le Scanshop"
+msgstr ""
+
+#: View/Elements/bord.ctp:33
+#: View/Users/info.ctp:21
+msgid "Mes commandes"
+msgstr ""
+
+#: View/Elements/bord.ctp:38
+#: View/Elements/headerhome.ctp:35
+#: View/Users/account.ctp:42
+msgid "Mon compte"
+msgstr ""
+
+#: View/Elements/bord.ctp:42
+msgid "Accès direct"
+msgstr ""
+
+#: View/Elements/bord.ctp:43
+msgid "Voir une page"
+msgstr ""
+
+#: View/Elements/bord.ctp:52
+msgid "Modifier une page"
+msgstr ""
+
+#: View/Elements/divfoot.ctp:8
+msgid "Accueil"
+msgstr ""
+
+#: View/Elements/divfoot.ctp:9
+msgid "A Propos"
+msgstr ""
+
+#: View/Elements/divfoot.ctp:10
+msgid "FAQ"
+msgstr ""
+
+#: View/Elements/divfoot.ctp:13
+msgid "Mentions Legales"
+msgstr ""
+
+#: View/Elements/divfoot.ctp:14
+msgid "Contact"
+msgstr ""
+
+#: View/Elements/header.ctp:8
+#: View/Elements/headerf.ctp:8
+#: View/Elements/headerhome.ctp:7
+msgid "logo retour accueil du site"
+msgstr ""
+
+#: View/Elements/header.ctp:17
+#: View/Elements/headerf.ctp:17
+msgid "Menu"
+msgstr ""
+
+#: View/Elements/header.ctp:28;42
+#: View/Elements/headerhome.ctp:14
+msgid "anglais"
+msgstr ""
+
+#: View/Elements/header.ctp:34;48
+#: View/Elements/headerhome.ctp:21
+msgid "français"
+msgstr ""
+
+#: View/Elements/header.ctp:66
+msgid "ajouter un album à une personne"
+msgstr ""
+
+#: View/Elements/header.ctp:80
+msgid "ajouter une catégorie de contenus à une personne"
+msgstr ""
+
+#: View/Elements/header.ctp:93
+msgid "ajouter un pdf sur la page d'une personne"
+msgstr ""
+
+#: View/Elements/header.ctp:106
+msgid "ajouter une vidéo sur la page d'une personne"
+msgstr ""
+
+#: View/Elements/header.ctp:118
+msgid "ajouter un son sur la page d'une personne"
+msgstr ""
+
+#: View/Elements/header.ctp:130
+msgid "ajouter une image sur la page d'une personne"
+msgstr ""
+
+#: View/Elements/header.ctp:142
+msgid "ajouter un contenu texte sur la page d'une personne"
+msgstr ""
+
+#: View/Elements/header.ctp:154
+msgid "mon tableau de bord"
+msgstr ""
+
+#: View/Elements/header.ctp:159
+#: View/Elements/headerf.ctp:27
+#: View/Elements/headerhome.ctp:49
+msgid "Se déconnecter"
+msgstr ""
+
+#: View/Elements/header.ctp:166
+#: View/Elements/headerf.ctp:34
+#: View/Elements/headerhome.ctp:56
+msgid "se déconnecter"
+msgstr ""
+
+#: View/Elements/headerhome.ctp:42
+msgid "aller à votre compte"
+msgstr ""
+
+#: View/Elements/headerhome.ctp:66
+#: View/Users/login.ctp:8
+msgid "Se connecter"
+msgstr ""
+
+#: View/Elements/headerhome.ctp:73
+msgid "se connecter à votre compte"
+msgstr ""
+
+#: View/Elements/headerhome.ctp:80
+#: View/Users/login.ctp:16
+msgid "S'inscrire gratuitement"
+msgstr ""
+
+#: View/Elements/headerhome.ctp:87
+msgid "s'inscrire gratuitement pour créer votre compte"
+msgstr ""
+
+#: View/Emails/text/commentaire.ctp:1
+#: View/Emails/text/confirmation.ctp:1
+#: View/Emails/text/inscription.ctp:1
+#: View/Emails/text/register.ctp:1
+msgid "Bonjour"
+msgstr ""
+
+#: View/Emails/text/commentaire.ctp:3
+msgid "Un nouveau commentaire vient d'être posté sur le contenu"
+msgstr ""
+
+#: View/Emails/text/commentaire.ctp:4
+msgid "Le commentaire n'est pas encore publié car vous devez l'approuver auparavant."
+msgstr ""
+
+#: View/Emails/text/commentaire.ctp:6
+msgid "Pour l'approuver rendez-vous sur cette page :"
+msgstr ""
+
+#: View/Emails/text/commentaire.ctp:20
+#: View/Emails/text/confirmation.ctp:11
+#: View/Emails/text/invitation.ctp:7
+#: View/Emails/text/livraison.ctp:9
+msgid "Pour tout renseignement, n'hésitez pas à nous contacter : contact@scanepitaphe.fr"
+msgstr ""
+
+#: View/Emails/text/commentaire.ctp:22
+#: View/Emails/text/confirmation.ctp:13
+#: View/Emails/text/inscription.ctp:7
+#: View/Emails/text/invitation.ctp:9
+#: View/Emails/text/livraison.ctp:11
+#: View/Emails/text/password.ctp:9
+#: View/Emails/text/register.ctp:7
+msgid "Cordialement,"
+msgstr ""
+
+#: View/Emails/text/commentaire.ctp:24
+#: View/Emails/text/confirmation.ctp:15
+#: View/Emails/text/inscription.ctp:9
+#: View/Emails/text/invitation.ctp:11
+#: View/Emails/text/livraison.ctp:13
+#: View/Emails/text/register.ctp:9
+msgid "L'equipe de Scanepitaphe.fr"
+msgstr ""
+
+#: View/Emails/text/confirmation.ctp:3
+msgid "Nous vous remercions pour votre achat sur le site Scanepitaphe.fr."
+msgstr ""
+
+#: View/Emails/text/confirmation.ctp:4
+msgid "Vous pouvez désormais profiter pleinement de votre produit ScanEpitaphe en vous rendant sur votre compte :"
+msgstr ""
+
+#: View/Emails/text/confirmation.ctp:7
+msgid "A partir de votre compte, vous pourrez télécharger votre facture."
+msgstr ""
+
+#: View/Emails/text/confirmation.ctp:9
+msgid "Nous vous rappelons votre login pour vous connecter sur notre site :"
+msgstr ""
+
+#: View/Emails/text/inscription.ctp:3
+#: View/Emails/text/register.ctp:3
+msgid "Nous vous remercions pour votre inscription au site Scanepitaphe.fr."
+msgstr ""
+
+#: View/Emails/text/inscription.ctp:4
+msgid "Activez votre compte en cliquant sur le lien ci-desous :"
+msgstr ""
+
+#: View/Emails/text/invitation.ctp:1
+#: View/Emails/text/livraison.ctp:1
+#: View/Emails/text/password.ctp:1
+msgid "Bonjour,"
+msgstr ""
+
+#: View/Emails/text/invitation.ctp:3
+msgid "vous invite à rejoindre Scanepitaphe pour gérer la page en mémoire à"
+msgstr ""
+
+#: View/Emails/text/invitation.ctp:4
+msgid "Pour accepter l'invitation, cliquez sur le lien :"
+msgstr ""
+
+#: View/Emails/text/livraison.ctp:3
+msgid "Nous vous informons de l'envoi de votre colis."
+msgstr ""
+
+#: View/Emails/text/livraison.ctp:5
+msgid "Vous pouvez suivre la livraison sur le site Colissimo (http://www.colissimo.fr/). Votre numéro de colis est :"
+msgstr ""
+
+#: View/Emails/text/livraison.ctp:7
+msgid "Nous vous remercions pour votre achat."
+msgstr ""
+
+#: View/Emails/text/password.ctp:3
+msgid "Vous avez demandez à regénérer votre mot de passe pour le site Scanepitaphe.fr. Si vous êtes bien à l'origine de cette demande merci de suivre ce lien"
+msgstr ""
+
+#: View/Emails/text/password.ctp:6
+msgid "Pour rappel votre nom d'utilisateur :"
+msgstr ""
+
+#: View/Emails/text/password.ctp:12
+msgid "L'équipe de Scanepitaphe"
+msgstr ""
+
+#: View/Emails/text/register.ctp:4
+msgid "Vous pouvez valider votre compte en vous rendant lien"
+msgstr ""
+
+#: View/Errors/error400.ctp:24
+msgid "ERREUR 400"
+msgstr ""
+
+#: View/Errors/error400.ctp:29
+#: View/Errors/error500.ctp:23
+msgid "Nous sommes désolé il y a une erreur!"
+msgstr ""
+
+#: View/Errors/error400.ctp:37
+#: View/Errors/error500.ctp:29
+msgid "Retourner sur le site"
+msgstr ""
+
+#: View/Errors/error500.ctp:20
+msgid "ERREUR 500"
+msgstr ""
+
+#: View/Families/add.ctp:4
+msgid "Création d'une famille"
+msgstr ""
+
+#: View/Families/add.ctp:18
+#: View/Families/edit.ctp:19
+msgid "renseignez le nom de la famille"
+msgstr ""
+
+#: View/Families/add.ctp:19
+#: View/Families/edit.ctp:20
+#: View/Products/view.ctp:21
+msgid "Description"
+msgstr ""
+
+#: View/Families/add.ctp:19
+#: View/Families/edit.ctp:20
+msgid "description de la famille (facultatif)"
+msgstr ""
+
+#: View/Families/add.ctp:20
+msgid "Créer la famille"
+msgstr ""
+
+#: View/Families/delete.ctp:4
+msgid "Confirmation suppression de la famille"
+msgstr ""
+
+#: View/Families/delete.ctp:18
+msgid "La suppression de cette famille va engendrer la suppression de l'ensemble des profils et contenus qui lui sont associés. Cette action est IRREVOCABLE et les profils et contenus supprimés ne pourront pas être récupérés."
+msgstr ""
+
+#: View/Families/delete.ctp:25
+msgid "Confirmer la suppression de cette famille"
+msgstr ""
+
+#: View/Families/edit.ctp:4
+msgid "Modifier les informations pour la famille"
+msgstr ""
+
+#: View/Families/editprinc.ctp:4
+msgid "Famille"
+msgstr ""
+
+#: View/Families/editprinc.ctp:18
+msgid "Ajouter une personne (ou groupe de personnes) et créer sa page"
+msgstr ""
+
+#: View/Families/editprinc.ctp:19
+#: View/Users/account.ctp:10
+msgid "créer une famille (groupe de personnes)"
+msgstr ""
+
+#: View/Families/editprinc.ctp:32
+msgid "Voir la page"
+msgstr ""
+
+#: View/Families/editprinc.ctp:39
+#: View/Families/liste.ctp:13
+msgid "Supprimer cette famille"
+msgstr ""
+
+#: View/Families/editprinc.ctp:50
+msgid "Paramètres de la famille"
+msgstr ""
+
+#: View/Families/editprinc.ctp:51
+msgid "paramètres de la famille"
+msgstr ""
+
+#: View/Families/liste.ctp:7
+msgid "Les familles"
+msgstr ""
+
+#: View/Families/liste.ctp:8
+msgid "Scanepitaphe vous permet de créer des familles. Chaque famille regroupe plusieurs personnes ou groupes de personnes correspondant à des pages individuelles. Vous êtes libre de créer les familles que vous souhaitez et ce sans limite."
+msgstr ""
+
+#: View/Families/liste.ctp:13
+msgid "Famille "
+msgstr ""
+
+#: View/Families/liste.ctp:13
+msgid "Modifier cette famille"
+msgstr ""
+
+#: View/Families/liste.ctp:13
+msgid "Ajouter / Modifier les personnes de cette famille"
+msgstr ""
+
+#: View/Families/liste.ctp:13
+msgid "Voulez vous vraiment supprimer cette famille ? Cette action est DEFINITIVE."
+msgstr ""
+
+#: View/Media/addimage.ctp:4
+msgid "Ajouter une image sur la page d'une personne"
+msgstr ""
+
+#: View/Media/addimage.ctp:28
+msgid "2 - Ajoutez un titre pour l'image"
+msgstr ""
+
+#: View/Media/addimage.ctp:28
+#: View/Media/addimagealb.ctp:24
+#: View/Media/addimageind.ctp:23
+#: View/Media/editimage.ctp:29
+msgid "renseignez le titre de votre image"
+msgstr ""
+
+#: View/Media/addimage.ctp:30
+#: View/Media/addpdf.ctp:30
+#: View/Media/addson.ctp:30
+msgid "3 - Renseignez la date de l'évènement concerné"
+msgstr ""
+
+#: View/Media/addimage.ctp:37
+msgid "4 - Ajoutez une légende pour l'image"
+msgstr ""
+
+#: View/Media/addimage.ctp:37
+#: View/Media/addimagealb.ctp:33
+#: View/Media/addimageind.ctp:31
+#: View/Media/editimage.ctp:37
+msgid "légende de votre image"
+msgstr ""
+
+#: View/Media/addimage.ctp:38
+#: View/Media/addson.ctp:37
+#: View/Media/addsonind.ctp:44
+#: View/Media/addtexte.ctp:38
+#: View/Media/addvideo.ctp:36
+#: View/Media/addvideoind.ctp:44
+#: View/Media/editson.ctp:57
+#: View/Media/edittext.ctp:42
+#: View/Media/editvideo.ctp:45
+msgid "5 - Renseignez des mots clés (séparés par une virgule) (facultatif)"
+msgstr ""
+
+#: View/Media/addimage.ctp:40
+#: View/Media/addimagealb.ctp:36
+#: View/Media/addimageind.ctp:34
+#: View/Media/addpdf.ctp:39
+#: View/Media/addpdfind.ctp:33
+#: View/Media/addson.ctp:39
+#: View/Media/addsonind.ctp:46
+#: View/Media/addtexte.ctp:40
+#: View/Media/addtexteind.ctp:34
+#: View/Media/addvideo.ctp:38
+#: View/Media/addvideoind.ctp:46
+#: View/Media/editimage.ctp:64
+#: View/Media/editpdf.ctp:46
+#: View/Media/editson.ctp:59
+#: View/Media/edittext.ctp:44
+#: View/Media/editvideo.ctp:47
+msgid "Les mots clés"
+msgstr ""
+
+#: View/Media/addimage.ctp:41
+#: View/Media/addimagealb.ctp:37
+#: View/Media/addimageind.ctp:35
+#: View/Media/addpdf.ctp:40
+#: View/Media/addpdfind.ctp:34
+#: View/Media/addson.ctp:40
+#: View/Media/addsonind.ctp:47
+#: View/Media/addtexte.ctp:41
+#: View/Media/addtexteind.ctp:35
+#: View/Media/addvideo.ctp:39
+#: View/Media/addvideoind.ctp:47
+#: View/Media/editimage.ctp:65
+#: View/Media/editpdf.ctp:47
+#: View/Media/editson.ctp:60
+#: View/Media/edittext.ctp:45
+#: View/Media/editvideo.ctp:48
+msgid "Scanepitaphe vous permet de renseigner des mots clés à chaque contenu que vous ajoutez. Ces mots clés permettent de regrouper des contenus et ce, même s'ils appartiennent à des catégories différentes. Par exemple, vous pouvez ajouter une photo et un texte concernant un même voyage au Maroc. La photo pourra être classée dans la catégorie \"Photos\", le texte dans une autre, mais grâce au mot clé \"Voyage au Maroc\" renseigné pour les deux contenus, vous pourrez filtrer ces deux contenus sur la page perso."
+msgstr ""
+
+#: View/Media/addimage.ctp:42
+#: View/Media/addimagealb.ctp:38
+#: View/Media/addimageind.ctp:36
+#: View/Media/addpdf.ctp:41
+#: View/Media/addpdfind.ctp:35
+#: View/Media/addson.ctp:41
+#: View/Media/addsonind.ctp:48
+#: View/Media/addtexte.ctp:42
+#: View/Media/addtexteind.ctp:36
+#: View/Media/addvideo.ctp:40
+#: View/Media/addvideoind.ctp:48
+#: View/Media/editimage.ctp:66
+#: View/Media/editpdf.ctp:48
+#: View/Media/editson.ctp:61
+#: View/Media/edittext.ctp:46
+#: View/Media/editvideo.ctp:49
+msgid "Vous pouvez ajouter autant de mots clés que vous souhaitez."
+msgstr ""
+
+#: View/Media/addimage.ctp:45
+msgid "6 - Choississez un fichier pour l'image"
+msgstr ""
+
+#: View/Media/addimage.ctp:49
+msgid "7 - Choississez une éventuelle catégorie pour cette image (facultatif)"
+msgstr ""
+
+#: View/Media/addimage.ctp:70
+msgid "8 - Choississez un éventuel album pour cette image (facultatif)"
+msgstr ""
+
+#: View/Media/addimage.ctp:73
+msgid "Pour ajouter un contenu à un album, vous devez avoir créé cet album au préalable."
+msgstr ""
+
+#: View/Media/addimage.ctp:89
+msgid "9 - Autoriser les commentaires"
+msgstr ""
+
+#: View/Media/addimage.ctp:91
+#: View/Media/addimagealb.ctp:69
+#: View/Media/addimageind.ctp:67
+msgid "Ajouter cette image"
+msgstr ""
+
+#: View/Media/addimage.ctp:95
+#: View/Media/addimagealb.ctp:73
+#: View/Media/addpdf.ctp:73
+#: View/Media/addpdfind.ctp:57
+#: View/Media/addson.ctp:73
+#: View/Media/addsonind.ctp:58
+#: View/Media/addtexte.ctp:75
+#: View/Media/addtexteind.ctp:57
+msgid "Vous avez atteint votre limite de"
+msgstr ""
+
+#: View/Media/addimage.ctp:95
+#: View/Media/addimagealb.ctp:73
+#: View/Media/addimageind.ctp:71
+msgid "images."
+msgstr ""
+
+#: View/Media/addimage.ctp:95
+#: View/Media/addimagealb.ctp:73
+#: View/Media/addimageind.ctp:71
+#: View/Media/addpdf.ctp:73
+#: View/Media/addpdfind.ctp:57
+#: View/Media/addson.ctp:73
+#: View/Media/addsonind.ctp:58
+#: View/Media/addtexte.ctp:75
+#: View/Media/addtexteind.ctp:57
+msgid "Pour obtenir des contenus supplémentaires, rendez vous dans la boutique."
+msgstr ""
+
+#: View/Media/addimagealb.ctp:4
+#: View/Media/addimageind.ctp:4
+msgid "Ajouter une image sur la page de"
+msgstr ""
+
+#: View/Media/addimagealb.ctp:6
+msgid "dans son album"
+msgstr ""
+
+#: View/Media/addimagealb.ctp:24
+#: View/Media/addimageind.ctp:23
+msgid "1 - Ajoutez un titre pour l'image"
+msgstr ""
+
+#: View/Media/addimagealb.ctp:26
+#: View/Media/addimageind.ctp:25
+#: View/Media/addpdfind.ctp:25
+#: View/Media/addsonind.ctp:25
+msgid "2 - Renseignez la date de l'évènement concerné"
+msgstr ""
+
+#: View/Media/addimagealb.ctp:33
+#: View/Media/addimageind.ctp:31
+msgid "3 - Ajoutez une légende pour l'image"
+msgstr ""
+
+#: View/Media/addimagealb.ctp:34
+#: View/Media/addimageind.ctp:32
+#: View/Media/addpdf.ctp:37
+#: View/Media/addtexteind.ctp:32
+#: View/Media/editpdf.ctp:44
+msgid "4 - Renseignez des mots clés (séparés par une virgule) (facultatif)"
+msgstr ""
+
+#: View/Media/addimagealb.ctp:41
+msgid "5 - Choississez un fichier pour l'image"
+msgstr ""
+
+#: View/Media/addimagealb.ctp:45
+msgid "6 - Choississez une éventuelle catégorie pour cette image (facultatif)"
+msgstr ""
+
+#: View/Media/addimagealb.ctp:67
+#: View/Media/addpdf.ctp:67
+#: View/Media/addsonind.ctp:52
+#: View/Media/addtexte.ctp:69
+#: View/Media/addvideoind.ctp:57
+#: View/Media/editimage.ctp:76
+msgid "7 - Autoriser les commentaires"
+msgstr ""
+
+#: View/Media/addimageind.ctp:45
+msgid "5 - Choississez une éventuelle catégorie (facultatif)"
+msgstr ""
+
+#: View/Media/addimageind.ctp:49
+#: View/Media/addpdfind.ctp:48
+#: View/Media/addsonind.ctp:42
+#: View/Media/addtexteind.ctp:49
+#: View/Media/addvideoind.ctp:42
+#: View/Media/editimage.ctp:48
+#: View/Media/editpdf.ctp:42
+#: View/Media/editson.ctp:55
+#: View/Media/edittext.ctp:40
+#: View/Media/editvideo.ctp:43
+msgid "Vous n'avez pas créé de catégories pour cette personne. "
+msgstr ""
+
+#: View/Media/addimageind.ctp:57
+msgid "6 - Choississez un éventuel album (facultatif)"
+msgstr ""
+
+#: View/Media/addimageind.ctp:61
+msgid "Vous n'avez pas créé d'album pour cette personne. "
+msgstr ""
+
+#: View/Media/addimageind.ctp:61
+#: View/Media/editimage.ctp:60
+msgid "Créer un album"
+msgstr ""
+
+#: View/Media/addimageind.ctp:63
+msgid "7 - Choississez un fichier pour l'image"
+msgstr ""
+
+#: View/Media/addimageind.ctp:65
+#: View/Media/addson.ctp:67
+#: View/Media/addvideo.ctp:71
+msgid "8 - Autoriser les commentaires"
+msgstr ""
+
+#: View/Media/addimageind.ctp:71
+msgid "Vous avez atteint votre limite de "
+msgstr ""
+
+#: View/Media/addpdf.ctp:28
+msgid "2 - Ajoutez un titre pour le pdf"
+msgstr ""
+
+#: View/Media/addpdf.ctp:28
+#: View/Media/addpdfind.ctp:23
+#: View/Media/editpdf.ctp:24
+msgid "renseignez le titre de votre pdf"
+msgstr ""
+
+#: View/Media/addpdf.ctp:44
+msgid "5 - Choississez un fichier pour pdf"
+msgstr ""
+
+#: View/Media/addpdf.ctp:48
+msgid "6 - Choississez une éventuelle catégorie pour ce pdf (facultatif)"
+msgstr ""
+
+#: View/Media/addpdf.ctp:51
+#: View/Media/addtexte.ctp:52
+msgid "Pour ajouter un contenu à une catégorie, vous devez avoir créé cette catégorie au préalalble."
+msgstr ""
+
+#: View/Media/addpdf.ctp:69
+#: View/Media/addpdfind.ctp:53
+msgid "Ajouter ce pdf"
+msgstr ""
+
+#: View/Media/addpdf.ctp:73
+#: View/Media/addpdfind.ctp:57
+msgid "pdf."
+msgstr ""
+
+#: View/Media/addpdfind.ctp:4
+msgid "Ajouter un pdf sur la page de"
+msgstr ""
+
+#: View/Media/addpdfind.ctp:23
+msgid "1 - Ajoutez un titre pour le pdf"
+msgstr ""
+
+#: View/Media/addpdfind.ctp:31
+msgid "3 - Renseignez des mots clés (séparés par une virgule) (facultatif)"
+msgstr ""
+
+#: View/Media/addpdfind.ctp:50
+msgid "5 - Choississez un fichier pour le pdf"
+msgstr ""
+
+#: View/Media/addpdfind.ctp:51
+#: View/Media/addtexteind.ctp:51
+#: View/Media/editson.ctp:71
+#: View/Media/edittext.ctp:56
+#: View/Media/editvideo.ctp:59
+msgid "6 - Autoriser les commentaires"
+msgstr ""
+
+#: View/Media/addson.ctp:4
+msgid "Ajouter un contenu sonore (mp3) sur la page d'une personne"
+msgstr ""
+
+#: View/Media/addson.ctp:28
+msgid "2 - Ajoutez un titre à ce contenu sonore"
+msgstr ""
+
+#: View/Media/addson.ctp:28
+msgid "renseignez le titre de votre contenu sonore"
+msgstr ""
+
+#: View/Media/addson.ctp:36
+#: View/Media/addvideo.ctp:35
+msgid "4 - Ajoutez une description"
+msgstr ""
+
+#: View/Media/addson.ctp:36
+#: View/Media/addsonind.ctp:31
+msgid "description de votre son"
+msgstr ""
+
+#: View/Media/addson.ctp:44
+#: View/Media/addsonind.ctp:51
+msgid "6 - Choississez un fichier sonore (mp3)"
+msgstr ""
+
+#: View/Media/addson.ctp:48
+msgid "7 - Choississez une éventuelle catégorie pour ce fichier sonore (facultatif)"
+msgstr ""
+
+#: View/Media/addson.ctp:69
+#: View/Media/addsonind.ctp:54
+msgid "Ajouter ce contenu sonore"
+msgstr ""
+
+#: View/Media/addson.ctp:73
+#: View/Media/addsonind.ctp:58
+msgid "sons."
+msgstr ""
+
+#: View/Media/addsonind.ctp:4
+msgid "Ajouter un contenu sonore (mp3) sur la page de"
+msgstr ""
+
+#: View/Media/addsonind.ctp:23
+msgid "1 - Ajouter un titre à ce contenu sonore"
+msgstr ""
+
+#: View/Media/addsonind.ctp:23
+#: View/Media/editson.ctp:36
+msgid "renseignez le titre de votre son"
+msgstr ""
+
+#: View/Media/addsonind.ctp:31
+#: View/Media/addvideoind.ctp:31
+msgid "3 - Ajoutez une description"
+msgstr ""
+
+#: View/Media/addtexte.ctp:4
+msgid "Ajouter un contenu texte sur la page d'une personne"
+msgstr ""
+
+#: View/Media/addtexte.ctp:29
+msgid "2 - Ajoutez un titre au texte"
+msgstr ""
+
+#: View/Media/addtexte.ctp:29
+#: View/Media/addtexteind.ctp:23
+#: View/Media/addvideoind.ctp:22
+#: View/Media/edittext.ctp:21
+msgid "renseignez le titre de votre texte"
+msgstr ""
+
+#: View/Media/addtexte.ctp:31
+#: View/Media/addvideo.ctp:29
+msgid "3 - Renseignez la date de l'évènement décrit"
+msgstr ""
+
+#: View/Media/addtexte.ctp:37
+msgid "4 - Ajoutez votre texte"
+msgstr ""
+
+#: View/Media/addtexte.ctp:37
+#: View/Media/addtexteind.ctp:31
+#: View/Media/edittext.ctp:29
+msgid "écrivez votre texte"
+msgstr ""
+
+#: View/Media/addtexte.ctp:49
+msgid "6 - Choississez une éventuelle catégorie pour ce texte (facultatif)"
+msgstr ""
+
+#: View/Media/addtexte.ctp:71
+#: View/Media/addtexteind.ctp:53
+msgid "Ajouter ce texte"
+msgstr ""
+
+#: View/Media/addtexte.ctp:75
+#: View/Media/addtexteind.ctp:57
+msgid "textes."
+msgstr ""
+
+#: View/Media/addtexteind.ctp:4
+msgid "Ajouter un contenu texte sur la page de"
+msgstr ""
+
+#: View/Media/addtexteind.ctp:23
+msgid "1 - Ajoutez un titre du texte"
+msgstr ""
+
+#: View/Media/addtexteind.ctp:25
+#: View/Media/addvideoind.ctp:24
+msgid "2 - Renseignez la date de l'évènement décrit"
+msgstr ""
+
+#: View/Media/addtexteind.ctp:31
+msgid "3 - Ajoutez votre texte"
+msgstr ""
+
+#: View/Media/addtexteind.ctp:45
+msgid "5 - Choississez une éventuelle catégorie pour ce texte (facultatif)"
+msgstr ""
+
+#: View/Media/addvideo.ctp:4
+msgid "Ajouter une vidéo sur la page d'une personne"
+msgstr ""
+
+#: View/Media/addvideo.ctp:27
+msgid "2 - Ajoutez un titre pour la vidéo"
+msgstr ""
+
+#: View/Media/addvideo.ctp:27
+#: View/Media/editvideo.ctp:24
+msgid "renseignez le titre de votre vidéo"
+msgstr ""
+
+#: View/Media/addvideo.ctp:35
+msgid "description de votre vidéo"
+msgstr ""
+
+#: View/Media/addvideo.ctp:43
+#: View/Media/addvideoind.ctp:51
+msgid "6 - Ajoutez l'adresse de la vidéo Youtube"
+msgstr ""
+
+#: View/Media/addvideo.ctp:45
+#: View/Media/addvideoind.ctp:53
+msgid "Ajout de vidéo"
+msgstr ""
+
+#: View/Media/addvideo.ctp:46
+#: View/Media/addvideoind.ctp:54
+msgid "Rendez-vous sur la page Youtube de la vidéo. Cliquez sur \"Partager\" en dessous de la vidéo et copiez coller le lien"
+msgstr ""
+
+#: View/Media/addvideo.ctp:48
+msgid "coller l'adresse de la vidéo Youtube"
+msgstr ""
+
+#: View/Media/addvideo.ctp:52
+msgid "7 - Choississez une éventuelle catégorie pour cette vidéo (facultatif)"
+msgstr ""
+
+#: View/Media/addvideo.ctp:73
+#: View/Media/addvideoind.ctp:59
+msgid "Ajouter cette vidéo"
+msgstr ""
+
+#: View/Media/addvideoind.ctp:4
+msgid "Ajouter un contenu vidéo sur la page de"
+msgstr ""
+
+#: View/Media/addvideoind.ctp:22
+msgid "1 - Ajoutez un titre pour la vidéo"
+msgstr ""
+
+#: View/Media/addvideoind.ctp:31
+#: View/Media/editvideo.ctp:32
+msgid "description de la vidéo"
+msgstr ""
+
+#: View/Media/addvideoind.ctp:56
+msgid "coller l'adresse"
+msgstr ""
+
+#: View/Media/editimage.ctp:4
+msgid "Modifier un contenu image sur la page de"
+msgstr ""
+
+#: View/Media/editimage.ctp:29
+msgid "1 - Titre de l'image"
+msgstr ""
+
+#: View/Media/editimage.ctp:31
+#: View/Media/editpdf.ctp:26
+msgid "2 -Date de l'évenement concerné"
+msgstr ""
+
+#: View/Media/editimage.ctp:37
+msgid "3 - Légende de l'image"
+msgstr ""
+
+#: View/Media/editimage.ctp:56
+msgid "5 - Choississez un éventuel album (facultatif)"
+msgstr ""
+
+#: View/Media/editimage.ctp:60
+msgid "Vous n'avez pas créé d'album pour cette personne."
+msgstr ""
+
+#: View/Media/editimage.ctp:62
+msgid "6 - Renseignez des mots clés (séparés par une virgule) (facultatif)"
+msgstr ""
+
+#: View/Media/editimage.ctp:73
+#: View/Media/editpdf.ctp:55
+#: View/Media/editson.ctp:68
+#: View/Media/edittext.ctp:53
+#: View/Media/editvideo.ctp:56
+msgid "Voulez vous vraiment supprimer ce tag ?"
+msgstr ""
+
+#: View/Media/editimage.ctp:78
+msgid "Modifier cette image"
+msgstr ""
+
+#: View/Media/editpdf.ctp:4
+msgid "Modifier un contenu pdf sur la page de"
+msgstr ""
+
+#: View/Media/editpdf.ctp:24
+msgid "1 - Titre du pdf"
+msgstr ""
+
+#: View/Media/editpdf.ctp:58
+msgid "5 - Autoriser les commentaires"
+msgstr ""
+
+#: View/Media/editpdf.ctp:60
+msgid "Modifier ce pdf"
+msgstr ""
+
+#: View/Media/editson.ctp:4
+msgid "Modifier un contenu sonore sur la page de"
+msgstr ""
+
+#: View/Media/editson.ctp:36
+msgid "1 - Titre du contenu sonore"
+msgstr ""
+
+#: View/Media/editson.ctp:38
+#: View/Media/edittext.ctp:23
+#: View/Media/editvideo.ctp:26
+msgid "2 - Date de l'évenement concerné"
+msgstr ""
+
+#: View/Media/editson.ctp:44
+msgid "3 - Description du contenu sonore"
+msgstr ""
+
+#: View/Media/editson.ctp:44
+msgid "renseignez une description"
+msgstr ""
+
+#: View/Media/editson.ctp:73
+msgid "Modifier ce contenu sonore"
+msgstr ""
+
+#: View/Media/edittext.ctp:4
+msgid "Modifier un contenu texte sur la page de"
+msgstr ""
+
+#: View/Media/edittext.ctp:21
+msgid "1 - Titre du texte"
+msgstr ""
+
+#: View/Media/edittext.ctp:29
+msgid "3 - Texte"
+msgstr ""
+
+#: View/Media/edittext.ctp:58
+#: View/Media/editvideo.ctp:60
+msgid "Modifier ce texte"
+msgstr ""
+
+#: View/Media/editvideo.ctp:4
+msgid "Modifier un contenu vidéo sur la page de"
+msgstr ""
+
+#: View/Media/editvideo.ctp:24
+msgid "1 - Titre de la vidéo"
+msgstr ""
+
+#: View/Media/editvideo.ctp:32
+msgid "3 - Description de la vidéo"
+msgstr ""
+
+#: View/Media/listeimage.ctp:5;31
+msgid "Liste des contenus image pour"
+msgstr ""
+
+#: View/Media/listeimage.ctp:19
+msgid "Vous n'avez pas ajouté de contenu image"
+msgstr ""
+
+#: View/Media/listeimage.ctp:21;107
+#: View/Media/listepdf.ctp:21;88
+#: View/Media/listeson.ctp:21;100
+#: View/Media/listtext.ctp:21;90
+msgid "Il vous reste "
+msgstr ""
+
+#: View/Media/listeimage.ctp:21;107
+msgid " image(s) à ajouter."
+msgstr ""
+
+#: View/Media/listeimage.ctp:22;108
+msgid "Ajouter une image"
+msgstr ""
+
+#: View/Media/listeimage.ctp:48
+#: View/Media/listepdf.ctp:47
+#: View/Media/listeson.ctp:49
+#: View/Media/listtext.ctp:46
+msgid "Titre"
+msgstr ""
+
+#: View/Media/listeimage.ctp:49
+msgid "Légende"
+msgstr ""
+
+#: View/Media/listeimage.ctp:50
+#: View/Media/listepdf.ctp:48
+#: View/Media/listtext.ctp:48
+msgid "Catégorie"
+msgstr ""
+
+#: View/Media/listeimage.ctp:51
+msgid "Album"
+msgstr ""
+
+#: View/Media/listeimage.ctp:52
+#: View/Media/listepdf.ctp:49
+#: View/Media/listeson.ctp:50
+#: View/Media/listtext.ctp:49
+msgid "Commentaires"
+msgstr ""
+
+#: View/Media/listeimage.ctp:79
+#: View/Media/listepdf.ctp:59
+#: View/Media/listeson.ctp:71
+#: View/Media/listtext.ctp:60
+#: View/Media/listvideo.ctp:55
+msgid "Voir les "
+msgstr ""
+
+#: View/Media/listeimage.ctp:79
+#: View/Media/listepdf.ctp:59
+#: View/Media/listeson.ctp:71
+#: View/Media/listtext.ctp:60
+#: View/Media/listvideo.ctp:55
+msgid " commentaire(s)"
+msgstr ""
+
+#: View/Media/listeimage.ctp:85
+#: View/Media/listepdf.ctp:65
+#: View/Media/listeson.ctp:77
+#: View/Media/listtext.ctp:66
+#: View/Media/listvideo.ctp:61
+msgid "Autoriser les commentaires"
+msgstr ""
+
+#: View/Media/listeimage.ctp:91
+#: View/Media/listepdf.ctp:71
+#: View/Media/listeson.ctp:83
+#: View/Media/listtext.ctp:72
+#: View/Media/listvideo.ctp:67
+msgid "Interdire les commentaires"
+msgstr ""
+
+#: View/Media/listeimage.ctp:97
+#: View/Media/listepdf.ctp:77
+#: View/Media/listeson.ctp:89
+#: View/Media/listtext.ctp:78
+#: View/Media/listvideo.ctp:52
+msgid "Supprimer ce contenu"
+msgstr ""
+
+#: View/Media/listeimage.ctp:97
+#: View/Media/listepdf.ctp:77
+#: View/Media/listeson.ctp:89
+#: View/Media/listtext.ctp:78
+#: View/Media/listvideo.ctp:52
+msgid "Voulez vous vraiment supprimer ce contenu ? Cette action est DEFINITIVE."
+msgstr ""
+
+#: View/Media/listeimage.ctp:105
+msgid "Vous avez atteint votre nombre d'images autorisées. Rendez-vous dans la boutique pour augmenter ce nombre."
+msgstr ""
+
+#: View/Media/listepdf.ctp:5;31
+msgid "Liste des contenus pdf pour"
+msgstr ""
+
+#: View/Media/listepdf.ctp:19
+msgid "Vous n'avez pas ajouté de contenu pdf"
+msgstr ""
+
+#: View/Media/listepdf.ctp:21;88
+msgid " pdf à ajouter."
+msgstr ""
+
+#: View/Media/listepdf.ctp:22;89
+msgid "Ajouter un pdf"
+msgstr ""
+
+#: View/Media/listepdf.ctp:86
+msgid "Vous avez atteint votre nombre de pdf autorisés. Rendez-vous dans la butique pour augmenter ce nombre."
+msgstr ""
+
+#: View/Media/listeson.ctp:5;32
+msgid "Liste des contenus sonores pour"
+msgstr ""
+
+#: View/Media/listeson.ctp:19
+msgid "Vous n'avez pas ajouté de contenu sonore"
+msgstr ""
+
+#: View/Media/listeson.ctp:21;100
+msgid " fichier(s) sonore(s) à ajouter."
+msgstr ""
+
+#: View/Media/listeson.ctp:22;101
+msgid "Ajouter un contenu sonore"
+msgstr ""
+
+#: View/Media/listeson.ctp:98
+#: View/Media/listtext.ctp:88
+msgid "Vous avez atteint votre nombre de textes autorisés. Rendez-vous dans la boutique pour augmenter ce nombre."
+msgstr ""
+
+#: View/Media/listtext.ctp:5;31
+msgid "Liste des contenus textes pour"
+msgstr ""
+
+#: View/Media/listtext.ctp:19
+msgid "Vous n'avez pas ajouté de contenu texte"
+msgstr ""
+
+#: View/Media/listtext.ctp:21;90
+msgid " texte(s) à ajouter."
+msgstr ""
+
+#: View/Media/listtext.ctp:22;91
+msgid "Ajouter un texte"
+msgstr ""
+
+#: View/Media/listtext.ctp:47
+msgid "Contenu"
+msgstr ""
+
+#: View/Media/listvideo.ctp:5;30
+msgid "Liste des contenus vidéos pour"
+msgstr ""
+
+#: View/Media/listvideo.ctp:19
+msgid "Vous n'avez pas ajouté de contenu vidéo"
+msgstr ""
+
+#: View/Media/listvideo.ctp:21
+msgid "Ajouter une vidéo"
+msgstr ""
+
+#: View/Media/listvideo.ctp:76
+msgid "Ajouter une video"
+msgstr ""
+
+#: View/Orders/fournisseurindex.ctp:4
+msgid "Liste des commandes Scanepitaphe"
+msgstr ""
+
+#: View/Orders/fournisseurindex.ctp:8
+#: View/Orders/myorder.ctp:19
+msgid "Date"
+msgstr ""
+
+#: View/Orders/fournisseurindex.ctp:9
+#: View/Orders/myorder.ctp:20
+msgid "Reference de la commande"
+msgstr ""
+
+#: View/Orders/fournisseurindex.ctp:10
+#: View/Orders/myorder.ctp:21
+msgid "Nom du client"
+msgstr ""
+
+#: View/Orders/fournisseurindex.ctp:11
+#: View/Orders/myorder.ctp:22
+msgid "Montant"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:2
+#: View/Orders/pview.ctp:2
+#: View/Orders/view.ctp:15
+msgid "Commande n°"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:3
+#: View/Orders/pview.ctp:3
+#: View/Orders/view.ctp:29
+msgid "Coordonnées du client"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:17
+#: View/Orders/pview.ctp:17
+#: View/Orders/view.ctp:43
+msgid "Coordonnées de livraison"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:31
+#: View/Orders/pview.ctp:31
+#: View/Orders/view.ctp:57
+msgid "Commande"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:34
+#: View/Orders/pview.ctp:34
+#: View/Orders/view.ctp:60
+msgid "Date : "
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:36
+#: View/Orders/pview.ctp:36
+#: View/Orders/view.ctp:62
+msgid "Statut : "
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:48
+#: View/Orders/pview.ctp:48
+#: View/Orders/view.ctp:74
+msgid "Liste des produits commandés"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:49
+#: View/Orders/pview.ctp:49
+#: View/Orders/view.ctp:75
+msgid "Prix"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:69
+#: View/Orders/pview.ctp:69
+#: View/Orders/view.ctp:95
+msgid "Livraison : "
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:73
+#: View/Orders/pview.ctp:73
+#: View/Orders/view.ctp:99
+msgid "Total TVA : "
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:77
+#: View/Orders/pview.ctp:77
+#: View/Orders/view.ctp:103
+msgid "Total TTC : "
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:81
+#: View/Orders/pview.ctp:81
+#: View/Orders/view.ctp:107
+msgid "Liste produits matériels"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:86
+#: View/Orders/pview.ctp:86
+#: View/Orders/view.ctp:112
+msgid "Personne concernée"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:87
+#: View/Orders/pview.ctp:87
+#: View/Orders/view.ctp:113
+msgid "Image"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:88
+msgid "QR code"
+msgstr ""
+
+#: View/Orders/fournisseurpview.ctp:109
+#: View/Orders/pview.ctp:106
+#: View/Orders/view.ctp:132
+msgid "Commande de la version 1. Impossible d'afficher le détail."
+msgstr ""
+
+#: View/Orders/myorder.ctp:4
+msgid "Récapitulatif de mes commandes"
+msgstr ""
+
+#: View/Orders/myorder.ctp:36
+msgid "Vous n'avez pas effectué de commande."
+msgstr ""
+
+#: View/Orders/pview.ctp:14;28
+#: View/Orders/view.ctp:40;54
+msgid "Tel : "
+msgstr ""
+
+#: View/Orders/view.ctp:16
+msgid "format pour imprimer la commande"
+msgstr ""
+
+#: View/Pages/a_propos.ctp:3
+#: View/Pages/cgu.ctp:3
+#: View/Pages/cgv.ctp:3
+#: View/Pages/faq.ctp:3
+#: View/Pages/legales.ctp:3
+msgid "Informations"
+msgstr ""
+
+#: View/Pages/home.ctp:9
+msgid "Ecrivez l'histoire de vos proches"
+msgstr ""
+
+#: View/Pages/home.ctp:10
+msgid "Partagez vos souvenirs"
+msgstr ""
+
+#: View/Pages/home.ctp:13
+msgid "Mon tableau de bord"
+msgstr ""
+
+#: View/Pages/home.ctp:24
+msgid "Commencer à rédiger gratuitement"
+msgstr ""
+
+#: View/Pages/home.ctp:46
+msgid "Quand un être cher s'en va, seuls les souvenirs nous restent, sources de réconfort… mais si fragiles."
+msgstr ""
+
+#: View/Pages/home.ctp:49
+msgid "Scanepitaphe a été conçu dans le but de faire perdurer ces souvenirs et de les partager avec ses proches."
+msgstr ""
+
+#: View/Pages/home.ctp:52
+msgid "Scanepitaphe vous permet de créer, pour vos proches disparus, un espace gratuit et personnalisable, lieu de recueil et de mémoire. Au travers de textes, d'images, de vidéos ou encore de fichiers sonores, vous réécrivez l'histoire de vos proches, vous redonnez vie aux souvenirs."
+msgstr ""
+
+#: View/Pages/home.ctp:55
+msgid "Scanepitaphe offre également la possibilité, si vous le souhaitez, d'être un lieu d'échanges et de partage. Les membres d'une famille sont aujourd'hui souvent séparés géographiquement. Scanepitaphe a été pensé afin que chaque membre d'une famille ou d'un cercle de proches puisse réagir aux contenus et ainsi partager ses propres souvenirs.\n\t\t\t\tSoucieux de la vie privée de ses utilisateurs Scanepitaphe offre la possibilité de restreindre l'accès aux espaces personnalisables et s'interdit toute publicité sur le site."
+msgstr ""
+
+#: View/Pages/home.ctp:59
+msgid "En cliquant sur l'image ci-dessus (ou en scannant le QR code), vous aurez un aperçu de Scanepitaphe."
+msgstr ""
+
+#: View/Pages/home.ctp:67
+msgid "visitez la page de demonstration"
+msgstr ""
+
+#: View/Pages/home.ctp:80
+msgid "Possibilité de restreindre l'accès à vos pages"
+msgstr ""
+
+#: View/Pages/home.ctp:85
+msgid "Des pages adaptées à tous les supports"
+msgstr ""
+
+#: View/Pages/home.ctp:90
+msgid "Un accès rapide via QR code"
+msgstr ""
+
+#: View/Pages/home.ctp:95
+msgid "Un réseau social pour la famille"
+msgstr ""
+
+#: View/Pages/home.ctp:103
+msgid "Les engagements de Scanepitaphe"
+msgstr ""
+
+#: View/Pages/home.ctp:105
+msgid "Respect de la vie privée"
+msgstr ""
+
+#: View/Pages/home.ctp:106
+msgid "Chaque utilisateur est libre de paramétrer l'accès aux pages individuelles qu'il a créé. Il est ainsi possible de restreindre  l'accès avec un mot de passe. A tout moment, il vous est possible de fermer votre compte et ainsi d'effacer l'ensemble de vos contenus."
+msgstr ""
+
+#: View/Pages/home.ctp:107
+msgid "Zéro publicité"
+msgstr ""
+
+#: View/Pages/home.ctp:108
+msgid "Lieu de recueil et de mémoire, aucune publicité n'est présente sur Scanepitaphe. De même, toute publicité émanant des utilisateurs est interdite."
+msgstr ""
+
+#: View/Pages/home.ctp:109
+msgid "Liberté"
+msgstr ""
+
+#: View/Pages/home.ctp:110
+msgid "L'inscription à Scanepitaphe est gratuite. Vous pouvez créer autant de pages individuelles que vous le souhaitez et en partager la gestion avec vos proches."
+msgstr ""
+
+#: View/Products/scanshop.ctp:4
+#: View/Users/account.ctp:35
+msgid "Boutique"
+msgstr ""
+
+#: View/Products/scanshop.ctp:17
+msgid "Bienvenue dans la boutique!"
+msgstr ""
+
+#: View/Products/scanshop.ctp:18
+msgid "La boutique vous propose un ensemble de produits pour améliorer votre expérience Scanepitaphe. Des extensions pour ajouter davantage de contenus. D'autres produits comme nos plaques commémoratives qui peuvent servir d'ornements sur une stèle et permettent un accès à une page individuelle avec un QR code."
+msgstr ""
+
+#: View/Products/scanshop.ctp:21
+msgid "La boutique est vide."
+msgstr ""
+
+#: View/Products/scanshop.ctp:37
+msgid "Voir"
+msgstr ""
+
+#: View/Products/scanshop.ctp:42
+#: View/Products/view.ctp:53
+msgid "Ajouter au panier"
+msgstr ""
+
+#: View/Products/view.ctp:41
+msgid "Vous devez ajouter une personne pour commencer."
+msgstr ""
+
+#: View/Products/view.ctp:44
+msgid "2 - Ajouter un texte à imprimer sur la plaque"
+msgstr ""
+
+#: View/Products/view.ctp:45
+msgid "3 - Choisissez votre photo personnelle (mode portrait)"
+msgstr ""
+
+#: View/Products/view.ctp:47
+msgid "Personnaliser l'apparence"
+msgstr ""
+
+#: View/Users/account.ctp:24
+msgid "Modifier, voir les membres"
+msgstr ""
+
+#: View/Users/account.ctp:36
+msgid "se rendre dans la boutique Scanepitaphe"
+msgstr ""
+
+#: View/Users/account.ctp:43
+msgid "paramètres de votre compte"
+msgstr ""
+
+#: View/Users/delete.ctp:4
+msgid "Confirmation suppression de votre compte"
+msgstr ""
+
+#: View/Users/delete.ctp:18
+msgid "La suppression de ce compte va engendrer la suppression de l'ensemble des familles, profils et contenus qui lui sont associés. Cette action est IRREVOCABLE et les familles, profils et contenus supprimés ne pourront pas être récupérés."
+msgstr ""
+
+#: View/Users/delete.ctp:24
+msgid "Renseignez une deuxième fois votre mot de passe pour confirmer"
+msgstr ""
+
+#: View/Users/delete.ctp:26
+msgid "Confirmer la suppression de ce compte"
+msgstr ""
+
+#: View/Users/edit.ctp:4
+msgid "Modifier mes coordonnées"
+msgstr ""
+
+#: View/Users/edit.ctp:18
+msgid "Votre adresse email"
+msgstr ""
+
+#: View/Users/edit.ctp:18
+#: View/Users/forgot.ctp:19
+#: View/Users/register.ctp:14
+msgid "votre email"
+msgstr ""
+
+#: View/Users/edit.ctp:19
+msgid "votre prénom"
+msgstr ""
+
+#: View/Users/edit.ctp:20
+msgid "votre nom"
+msgstr ""
+
+#: View/Users/edit.ctp:21
+msgid "Téléphone (attention requis si vous faites une commande via la boutique)"
+msgstr ""
+
+#: View/Users/edit.ctp:21
+msgid "votre téléphone"
+msgstr ""
+
+#: View/Users/edit.ctp:31
+msgid "votre rue"
+msgstr ""
+
+#: View/Users/edit.ctp:32
+msgid "Code postal"
+msgstr ""
+
+#: View/Users/edit.ctp:32
+msgid "votre code postal"
+msgstr ""
+
+#: View/Users/edit.ctp:33
+msgid "votre ville"
+msgstr ""
+
+#: View/Users/edit.ctp:34
+msgid "votre pays"
+msgstr ""
+
+#: View/Users/forgot.ctp:4
+msgid "Rappel du mot de passe"
+msgstr ""
+
+#: View/Users/forgot.ctp:16
+msgid "Si vous avez oublié votre et/ou votre nom d'utilisateur pour vous connecter, indiquez votre email ci-dessous. Un email de confirmation de demande de nouveau mot de passe vous sera envoyé."
+msgstr ""
+
+#: View/Users/forgot.ctp:19
+msgid "Indiquez votre adresse email"
+msgstr ""
+
+#: View/Users/forgot.ctp:20
+msgid "Regénérer mon mot de passe"
+msgstr ""
+
+#: View/Users/info.ctp:4
+msgid "Gestion de votre compte"
+msgstr ""
+
+#: View/Users/info.ctp:17
+msgid "Mes coordonnées"
+msgstr ""
+
+#: View/Users/info.ctp:18
+msgid "modifier vos coordonnées"
+msgstr ""
+
+#: View/Users/info.ctp:22
+msgid "voir vos commandes"
+msgstr ""
+
+#: View/Users/info.ctp:25
+msgid "Supprimer mon compte"
+msgstr ""
+
+#: View/Users/info.ctp:26
+msgid "supprimer votre compte"
+msgstr ""
+
+#: View/Users/login.ctp:11
+#: View/Users/register.ctp:13
+#: View/Users/registerinvit.ctp:13
+msgid "Nom d'utilisateur"
+msgstr ""
+
+#: View/Users/login.ctp:11
+#: View/Users/register.ctp:13
+#: View/Users/registerinvit.ctp:13
+msgid "votre nom d'utilisateur"
+msgstr ""
+
+#: View/Users/login.ctp:12
+#: View/Users/register.ctp:15
+#: View/Users/registerinvit.ctp:16
+msgid "Mot de passe"
+msgstr ""
+
+#: View/Users/login.ctp:12
+#: View/Users/register.ctp:15
+#: View/Users/registerinvit.ctp:16
+msgid "votre mot de passe"
+msgstr ""
+
+#: View/Users/login.ctp:13
+#: View/Users/register.ctp:19
+#: View/Users/registerinvit.ctp:20
+msgid "Continuer"
+msgstr ""
+
+#: View/Users/login.ctp:16
+msgid "Mot de passe oublié ? Nom d'utilisateur oublié ?"
+msgstr ""
+
+#: View/Users/pageinvite.ctp:4
+msgid "Gestion des co-auteurs pour la page de"
+msgstr ""
+
+#: View/Users/pageinvite.ctp:35
+msgid "Supprimer cet auteur"
+msgstr ""
+
+#: View/Users/pageinvite.ctp:49
+msgid "Email de la personne que vous souhaitez inviter en co-auteur"
+msgstr ""
+
+#: View/Users/pageinvite.ctp:49
+msgid "renseignez son email"
+msgstr ""
+
+#: View/Users/pageinvite.ctp:52
+msgid "Inviter cette personne à devenir co-auteur"
+msgstr ""
+
+#: View/Users/password.ctp:6
+msgid "Modifier votre mot de passe"
+msgstr ""
+
+#: View/Users/password.ctp:9
+msgid "Renseignez votre NOUVEAU mot de passe"
+msgstr ""
+
+#: View/Users/password.ctp:10
+msgid "Renseignez une deuxième fois votre NOUVEAU mot de passe"
+msgstr ""
+
+#: View/Users/password.ctp:11
+msgid "Enregistrer votre nouveau mot de passe"
+msgstr ""
+
+#: View/Users/register.ctp:6
+#: View/Users/registerinvit.ctp:6
+msgid "Inscription"
+msgstr ""
+
+#: View/Users/register.ctp:7
+#: View/Users/registerinvit.ctp:7
+msgid "Ecrivez vos mémoires ou celles de vos proches. Partagez vos souvenirs"
+msgstr ""
+
+#: View/Users/register.ctp:9
+#: View/Users/registerinvit.ctp:9
+msgid "Nous ne spammerons pas votre compte. Définissez vos permissions durant l'ajout de contenus."
+msgstr ""
+
+#: View/Users/register.ctp:14
+msgid "Email"
+msgstr ""
+
+#: View/Users/register.ctp:18
+#: View/Users/registerinvit.ctp:19
+msgid "Combien font 2 + 5 ?"
+msgstr ""
+
+#: View/Users/register.ctp:18
+#: View/Users/registerinvit.ctp:19
+msgid "2 + 5 = ?"
+msgstr ""
+
+#: View/Users/register.ctp:23
+#: View/Users/registerinvit.ctp:24
+msgid "Avez-vous déjà un compte ?"
+msgstr ""
+
+#: View/Users/register.ctp:25
+#: View/Users/registerinvit.ctp:26
+msgid "En vous inscrivant, vous acceptez nos"
+msgstr ""
+
+#: View/Users/register.ctp:25
+#: View/Users/registerinvit.ctp:26
+msgid "Règles d'utilisation"
+msgstr ""
+
+#: Model/Album.php:validation for field date
+msgid "Renseigner la date"
+msgstr ""
+
+#: Model/Checkout.php:validation for field defunt_id
+msgid "Choisir une personne"
+msgstr ""
+
+#: Model/Checkout.php:validation for field content
+msgid "Le contenu ne doit pas dépasser."
+msgstr ""
+
+#: Model/ClientPage.php:validation for field background
+msgid "Charger une photo de fond"
+msgstr ""
+
+#: Model/Comment.php:validation for field email_auteur
+msgid "Merci de soumettre une adresse email valide."
+msgstr ""
+
+#: Model/Defunt.php:validation for field name
+msgid "Renseigner le nom"
+msgstr ""
+
+#: Model/Family.php:validation for field empty
+#: Model/User.php:validation for field password_confirm
+msgid "Requis"
+msgstr ""
+
+#: Model/Media.php:validation for field defunt_id
+msgid "Vous n'avez pas défini de personne"
+msgstr ""
+
+#: Model/Media.php:validation for field content
+msgid "Vous n'avez pas rempli ce champ"
+msgstr ""
+
+#: Model/Order.php:validation for field accord
+msgid "Vous devez accepter les CGV et CGU"
+msgstr ""
+
+#: Model/Order.php:validation for field paiement
+msgid "Choisir un moyen de paiement"
+msgstr ""
+
+#: Model/Order.php:validation for field dname
+msgid "Un nom est requis"
+msgstr ""
+
+#: Model/Order.php:validation for field dfirstname
+msgid "Un prénom est requis"
+msgstr ""
+
+#: Model/Order.php:validation for field dstreet
+msgid "Une rue est requise"
+msgstr ""
+
+#: Model/Order.php:validation for field dzipcode
+msgid "Un code postal est requis"
+msgstr ""
+
+#: Model/Order.php:validation for field dcity
+msgid "Une ville est requise"
+msgstr ""
+
+#: Model/Order.php:validation for field livraison
+msgid "Un choix de livraison est requise"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Doit contenir au moins 5 caractères"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Doit seulement contenir des chiffres et/ou des lettres. Pas d'espace"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Déjà pris"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "Adresse email invalide"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "Déjà utilisée. Veuillez en choisir une autre."
+msgstr ""
+
+#: Model/User.php:validation for field captcha
+msgid "Captcha requis"
+msgstr ""
+
+#: Model/User.php:validation for field password
+msgid "Mot de passe requis"
+msgstr ""
+
+#: Model/User.php:validation for field password_confirm
+msgid "Les deux mots de passe ne sont pas identiques"
+msgstr ""
+
+#: Model/User.php:validation for field password_confirm
+msgid "Utiliser entre 6 et 20 caractères"
+msgstr ""
+
+#: Model/User.php:validation for field zip_code
+msgid "Votre code postal doit contenir 5 chiffres"
+msgstr ""
+
+#: Model/User.php:validation for field zip_code
+msgid "Votre code postal doit contenir uniquement des chiffres"
+msgstr ""
+

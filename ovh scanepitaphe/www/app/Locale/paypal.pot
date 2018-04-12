@@ -1,0 +1,128 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-01-05 15:09+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/Paypal/Lib/Paypal.php:260
+msgid "An error occured while getting the status of your account."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:313;361
+msgid "There was an error while connecting to Paypal"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:316
+msgid "There was a problem initiating the transaction, please try again."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:364
+msgid "There was a problem getting your details, please try again."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:418
+msgid "There was an error completing the payment"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:421
+msgid "There was a problem processing the transaction, please try again."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:455
+msgid "There was an error processing the card payment"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:458
+msgid "There was a problem processing your card, please try again."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:492
+msgid "There was an error processing the the refund"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:495
+msgid "A problem occurred during the refund process, please try again."
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:538;582;617
+msgid "There was an problem communicating with the payment gateway"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:601
+msgid "Missing client id/secret"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:644;733
+msgid "Must specify an expiry date"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:649;738
+msgid "Must include a M and Y in expiry date"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:657
+msgid "Invalid expiry date"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:663
+msgid "Invalid card number"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:667
+msgid "Invalid CVV2 number"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:673
+msgid "Invalid card type"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:715
+msgid "Could not detect client IP address"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:719
+msgid "Not a valid credit card number"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:724
+msgid "You must include the 3 digit security number"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:729
+msgid "Must specify an \"amount\" to charge"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:777
+msgid "You must pass a valid order array"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:780
+msgid "Valid \"return\" and \"cancel\" urls must be provided"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:783
+msgid "You must provide a currency code"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:836
+msgid "Original PayPal Transaction ID is required"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:841
+msgid "Must specify an \"amount\" to refund"
+msgstr ""
+
+#: Plugin/Paypal/Lib/Paypal.php:845
+msgid "You must specify a refund type, such as Full or Partial"
+msgstr ""
+
